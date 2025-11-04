@@ -4,7 +4,7 @@
 
 |                        | Links                                               | 
 | :--------------------: |:---------------------------------------------------:|
-| **Repository**        |  [GitHub](https://github.com/bonzid/CareMedEval)          | 
+| **Repository**        |  [GitHub](https://github.com/bonzid/CareMedEval), [HuggingFace](https://huggingface.co/datasets/doriab/CareMedEval)          | 
 | **Paper**  | TBA |
 | **Contact**  |  [Doria BONZI](mailto:doria.bonzi@loria.fr), [Alexandre GUIGGI](mailto:alexandre.guiggi@gmail.com) |
 
