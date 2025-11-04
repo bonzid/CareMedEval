@@ -1,0 +1,18 @@
+A Randomized Trial of Laparoscopic versus Open Surgery for Rectal Cancer
+Authors: H. Jaap Bonjer, M.D., Ph.D., Charlotte L. Deijen, M.D., Gabor A. Abis, M.D., Miguel A. Cuesta, M.D., Ph.D., Martijn H.G.M. van der Pas, M.D., Elly S.M. de Lange-de Klerk, M.D., Ph.D., Antonio M. Lacy, M.D., Ph.D., Willem A. Bemelman, M.D., Ph.D., John Andersson, M.D., Eva Angenete, M.D., Ph.D., Jacob Rosenberg, M.D., Ph.D., Alois Fuerst, M.D., Ph.D., and Eva Haglind, M.D., Ph.D., for the COLOR II Study Group
+
+Published April 2, 2015
+
+Abstract
+
+Background
+Laparoscopic resection of colorectal cancer is widely used. However, robust evidence to conclude that laparoscopic surgery and open surgery have similar outcomes in rectal cancer is lacking. A trial was designed to compare 3-year rates of cancer recurrence in the pelvic or perineal area (locoregional recurrence) and survival after laparoscopic and open resection of rectal cancer.
+
+Methods
+In this international trial conducted in 30 hospitals, we randomly assigned patients with a solitary adenocarcinoma of the rectum within 15 cm of the anal verge, not invading adjacent tissues, and without distant metastases to undergo either laparoscopic or open surgery in a 2:1 ratio. The primary end point was locoregional recurrence 3 years after the index surgery. Secondary end points included disease-free and overall survival.
+
+Results
+A total of 1044 patients were included (699 in the laparoscopic-surgery group and 345 in the open-surgery group). At 3 years, the locoregional recurrence rate was 5.0% in the two groups (difference, 0 percentage points; 90% confidence interval [CI], −2.6 to 2.6). Disease-free survival rates were 74.8% in the laparoscopic-surgery group and 70.8% in the open-surgery group (difference, 4.0 percentage points; 95% CI, −1.9 to 9.9). Overall survival rates were 86.7% in the laparoscopic-surgery group and 83.6% in the open-surgery group (difference, 3.1 percentage points; 95% CI, −1.6 to 7.8).
+
+Conclusions
+Laparoscopic surgery in patients with rectal cancer was associated with rates of locoregional recurrence and disease-free and overall survival similar to those for open surgery. (Funded by Ethicon Endo-Surgery Europe and others; COLOR II ClinicalTrials.gov number, NCT00297791.)

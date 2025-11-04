@@ -1,0 +1,22 @@
+Lung Volume Reduction Coil Treatment vs Usual Care in Patients With Severe Emphysema
+The REVOLENS Randomized Clinical Trial
+
+Gaëtan Deslée, MD, PhD1; Hervé Mal, MD, PhD2; Hervé Dutau, MD, PhD3; Arnaud Bourdin, MD, PhD4; Jean Michel Vergnon, MD, PhD5; Christophe Pison, MD, PhD6; Romain Kessler, MD, PhD7; Vincent Jounieaux, MD, PhD8; Luc Thiberville, MD, PhD9; Sylvie Leroy, MD10; Armelle Marceau, MD2; Sophie Laroumagne, MD3; Jean Pierre Mallet, MD4; Sylvain Dukic, PhD11; Coralie Barbe, MD12; Julie Bulsei, PharmD13; Damien Jolly, MD, PhD12; Isabelle Durand-Zaleski, MD, PhD13; Charles Hugo Marquette, MD, PhD10; for the REVOLENS Study Group
+
+
+Abstract
+Importance  Therapeutic options for severe emphysema are limited. Lung volume reduction using nitinol coils is a bronchoscopic intervention inducing regional parenchymal volume reduction and restoring lung recoil.
+
+Objective  To evaluate the efficacy, safety, cost, and cost-effectiveness of nitinol coils in treatment of severe emphysema.
+
+Design, Setting, and Participants  Multicenter 1:1 randomized superiority trial comparing coils with usual care at 10 university hospitals in France. Enrollment of patients with emphysema occurred from March to October 2013, with 12-month follow-up (last follow-up, December 2014).
+
+Interventions  Patients randomized to usual care (n = 50) received rehabilitation and bronchodilators with or without inhaled corticosteroids and oxygen; those randomized to bilateral coil treatment (n = 50) received usual care plus additional therapy in which approximately 10 coils per lobe were placed in 2 bilateral lobes in 2 procedures.
+
+Main Outcomes and Measures  The primary outcome was improvement of at least 54 m in the 6-minute walk test at 6 months (1-sided hypothesis test). Secondary outcomes included changes at 6 and 12 months in the 6-minute walk test, lung function, quality of life as assessed by St George’s Respiratory Questionnaire (range, 0-100; 0 being the best and 100 being the worst quality of life; minimal clinically important difference, ≥4), morbidity, mortality, total cost, and cost-effectiveness.
+
+Results  Among 100 patients, 71 men and 29 women (mean age, 62 years) were included. At 6 months, improvement of at least 54 m was observed in 18 patients (36%) in the coil group and 9 patients (18%) in the usual care group, for a between-group difference of 18% (1-sided 95% CI, 4% to ∞; P = .03). Mean between-group differences at 6 and 12 months in the coil and usual care groups were +0.09 L (95% CI, 0.05 L to ∞) (P = .001) and +0.08 L (95% CI, 0.03 L to ∞) (P = .002) for forced expiratory volume in the first second, +21 m (95% CI, −4 m to ∞) (P = .06) and +21 m (95% CI, −5 m to ∞) (P = .12) for 6-minute walk distance, and −13.4 points (95% CI, −8 points to ∞) and −10.6 points (95% CI, −5.8 points to ∞) for St George’s Respiratory Questionnaire (1-sided P < .001 for both). Within 12 months, 4 deaths occurred in the coil group and 3 in the usual care group. The mean total 1-year per-patient cost difference between groups was $47 908 (95% CI, $47 879-$48 073) (P < .001); the incremental cost-effectiveness ratio was $782 598 per additional quality-adjusted life-year.
+
+Conclusions and Relevance  In this preliminary study of patients with severe emphysema followed up for 6 months, bronchoscopic treatment with nitinol coils compared with usual care resulted in improved exercise capacity with high short-term costs. Further investigation is needed to assess durability of benefit and long-term cost implications.
+
+Trial Registration  clinicaltrials.gov Identifier: NCT01822795

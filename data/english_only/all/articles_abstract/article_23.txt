@@ -1,0 +1,20 @@
+Tinzaparin vs Warfarin for Treatment of Acute Venous Thromboembolism in Patients With Active Cancer
+A Randomized Clinical Trial
+Agnes Y. Y. Lee, MD, MSc1,2; Pieter W. Kamphuisen, MD, PhD3; Guy Meyer, MD4; Rupert Bauersachs, MD5,6; Mette S. Janas, MD, PhD7; Mikala F. Jarner, MSc7; Alok A. Khorana, MD8; for the CATCH Investigators
+
+Abstract
+Importance  Low-molecular-weight heparin is recommended over warfarin for the treatment of acute venous thromboembolism (VTE) in patients with active cancer largely based on results of a single, large trial.
+
+Objective  To study the efficacy and safety of tinzaparin vs warfarin for treatment of acute, symptomatic VTE in patients with active cancer.
+
+Design, Settings, and Participants  A randomized, open-label study with blinded central adjudication of study outcomes enrolled patients in 164 centers in Asia, Africa, Europe, and North, Central, and South America between August 2010 and November 2013. Adult patients with active cancer (defined as histologic diagnosis of cancer and receiving anticancer therapy or diagnosed with, or received such therapy, within the previous 6 months) and objectively documented proximal deep vein thrombosis (DVT) or pulmonary embolism, with a life expectancy greater than 6 months and without contraindications for anticoagulation, were followed up for 180 days and for 30 days after the last study medication dose for collection of safety data.
+
+Interventions  Tinzaparin (175 IU/kg) once daily for 6 months vs conventional therapy with tinzaparin (175 IU/kg) once daily for 5 to 10 days followed by warfarin at a dose adjusted to maintain the international normalized ratio within the therapeutic range (2.0-3.0) for 6 months.
+
+Main Outcomes and Measures  Primary efficacy outcome was a composite of centrally adjudicated recurrent DVT, fatal or nonfatal pulmonary embolism, and incidental VTE. Safety outcomes included major bleeding, clinically relevant nonmajor bleeding, and overall mortality.
+
+Results  Nine hundred patients were randomized and included in intention-to-treat efficacy and safety analyses. Recurrent VTE occurred in 31 of 449 patients treated with tinzaparin and 45 of 451 patients treated with warfarin (6-month cumulative incidence, 7.2% for tinzaparin vs 10.5% for warfarin; hazard ratio [HR], 0.65 [95% CI, 0.41-1.03]; P = .07). There were no differences in major bleeding (12 patients for tinzaparin vs 11 patients for warfarin; HR, 0.89 [95% CI, 0.40-1.99]; P = .77) or overall mortality (150 patients for tinzaparin vs 138 patients for warfarin; HR, 1.08 [95% CI, 0.85-1.36]; P = .54). A significant reduction in clinically relevant nonmajor bleeding was observed with tinzaparin (49 of 449 patients for tinzaparin vs 69 of 451 patients for warfarin; HR, 0.58 [95% CI, 0.40-0.84]; P = .004).
+
+Conclusions and Relevance  Among patients with active cancer and acute symptomatic VTE, the use of full-dose tinzaparin (175 IU/kg) daily compared with warfarin for 6 months did not significantly reduce the composite measure of recurrent VTE and was not associated with reductions in overall mortality or major bleeding, but was associated with a lower rate of clinically relevant nonmajor bleeding. Further studies are needed to assess whether the efficacy outcomes would be different in patients at higher risk of recurrent VTE.
+
+Trial Registration  clinicaltrials.gov Identifier: NCT01130025

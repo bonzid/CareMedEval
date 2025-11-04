@@ -1,0 +1,23 @@
+Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabètes
+Authors: Bernard Zinman, M.D., Christoph Wanner, M.D., John M. Lachin, Sc.D., David Fitchett, M.D., Erich Bluhmki, Ph.D., Stefan Hantel, Ph.D., Michaela Mattheus, Dipl. Biomath., Theresa Devins, Dr.P.H., Odd Erik Johansen, M.D., Ph.D., Hans J. Woerle, M.D., Uli C. Broedl, M.D., and Silvio E. Inzucchi, M.D., for the EMPA-REG OUTCOME Investigators
+
+Published November 26, 2015
+
+
+Abstract
+
+Background
+The effects of empagliflozin, an inhibitor of sodium–glucose cotransporter 2, in addition to standard care, on cardiovascular morbidity and mortality in patients with type 2 diabetes at high cardiovascular risk are not known.
+
+Methods
+We randomly assigned patients to receive 10 mg or 25 mg of empagliflozin or placebo once daily. The primary composite outcome was death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke, as analyzed in the pooled empagliflozin group versus the placebo group. The key secondary composite outcome was the primary outcome plus hospitalization for unstable angina.
+
+Results
+A total of 7020 patients were treated (median observation time, 3.1 years). The primary outcome occurred in 490 of 4687 patients (10.5%) in the pooled empagliflozin group and in 282 of 2333 patients (12.1%) in the placebo group (hazard ratio in the empagliflozin group, 0.86; 95.02% confidence interval, 0.74 to 0.99; P=0.04 for superiority). There were no significant between-group differences in the rates of myocardial infarction or stroke, but in the empagliflozin group there were significantly lower rates of death from cardiovascular causes (3.7%, vs. 5.9% in the placebo group; 38% relative risk reduction), hospitalization for heart failure (2.7% and 4.1%, respectively; 35% relative risk reduction), and death from any cause (5.7% and 8.3%, respectively; 32% relative risk reduction). There was no significant between-group difference in the key secondary outcome (P=0.08 for superiority). Among patients receiving empagliflozin, there was an increased rate of genital infection but no increase in other adverse events.
+
+Conclusions
+Patients with type 2 diabetes at high risk for cardiovascular events who received empagliflozin, as compared with placebo, had a lower rate of the primary composite cardiovascular outcome and of death from any cause when the study drug was added to standard care. (Funded by Boehringer Ingelheim and Eli Lilly; EMPA-REG OUTCOME ClinicalTrials.gov number, NCT01131676.)
+
+Type 2 diabetes is a major risk factor for cardiovascular disease,1,2 and the presence of both type 2 diabetes and cardiovascular disease increases the risk of death.3 Evidence that glucose lowering reduces the rates of cardiovascular events and death has not been convincingly shown,4–6 although a modest cardiovascular benefit may be observed after a prolonged follow-up period.7 Furthermore, there is concern that intensive glucose lowering or the use of specific glucose-lowering drugs may be associated with adverse cardiovascular outcomes.8 Therefore, it is necessary to establish the cardiovascular safety benefits of glucose-lowering agents.9
+Inhibitors of sodium–glucose cotransporter 2 reduce rates of hyperglycemia in patients with type 2 diabetes by decreasing renal glucose reabsorption, thereby increasing urinary glucose excretion.10 Empagliflozin is a selective inhibitor of sodium glucose cotransporter 211 that has been approved for type 2 diabetes.12 Given as either monotherapy or as an add-on therapy, the drug is reported to reduce glycated hemoglobin levels in patients with type 2 diabetes, including those with stage 2 or 3a chronic kidney disease.13–20 Furthermore, empagliflozin is associated with weight loss and reductions in blood pressure without increases in heart rate.13–20 Empagliflozin also has favorable effects on markers of arterial stiffness and vascular resistance,21 visceral adiposity,22 albuminuria,20 and plasma urate.13–19 Empagliflozin has been associated with an increase in levels of both low-density lipoprotein (LDL)14 and high-density lipoprotein (HDL) cholesterol.13–16 The most common side effects of empagliflozin are urinary tract infection and genital infection.12
+In the EMPA-REG OUTCOME trial, we examined the effects of empagliflozin, as compared with placebo, on cardiovascular morbidity and mortality in patients with type 2 diabetes at high risk for cardiovascular events who were receiving standard care.

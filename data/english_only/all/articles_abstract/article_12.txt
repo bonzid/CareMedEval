@@ -1,0 +1,18 @@
+Risk Factors for Pancreatic Cancer in China: A Multicenter Case-Control Study
+
+Zhaoxu Zheng 1, Rongshou Zheng 2, Yutong He 3, Xibin Sun 4, Ning Wang 5, Tianhui Chen 6, Wanqing Chen 2
+
+Abstract
+Background
+Despite having one of the highest mortality rates of all cancers, the risk factors of pancreatic cancer remain unclear. We assessed risk factors of pancreatic cancer in China.
+
+Methods
+A case-control study design was conducted using data from four hospital-based cancer registries (Henan Provincial Cancer Hospital, Beijing Cancer Hospital, Hebei Provincial Cancer Hospital, and Cancer Hospital of Chinese Academy of Medical Sciences). Controls were equally matched and selected from family members of non-pancreatic cancer patients in the same hospitals. Face-to-face interviews were conducted by trained staff using questionnaires. Conditional logistic regression models were used to assess odd ratios (ORs) and 95% confident intervals (CIs).
+
+Results
+Among 646 recruited participants, 323 were pancreatic cancer patients and 323 were controls. Multivariate logistic analysis suggested that pancreatic cancer family history (adjusted OR 1.23; 95% CI, 1.11–3.70), obesity (adjusted OR 1.77; 95% CI, 1.22–2.57), diabetes (adjusted OR 2.96; 95% CI, 1.48–5.92) and smoking (adjusted OR 1.78; 95% CI, 1.02–3.10) were risk factors for pancreatic cancer, but that drinking tea (adjusted OR 0.49; 95% CI, 0.25–0.84) was associated with reduced risk of pancreatic cancer.
+
+Conclusions
+Cigarette smoking, family history, obesity, and diabetes are risk factors of pancreatic cancer, which is important information for designing early intervention and preventive strategies for pancreatic cancer and may be beneficial to pancreatic cancer control in China.
+
+Key words: pancreatic cancer, multicenter, case-control study, risk factor, China

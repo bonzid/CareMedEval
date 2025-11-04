@@ -1,0 +1,27 @@
+Effect of Bag-Mask Ventilation vs Endotracheal Intubation During Cardiopulmonary Resuscitation on Neurological Outcome After Out-of-Hospital Cardiorespiratory Arrest
+A Randomized Clinical Trial
+Patricia Jabre, MD, PhD1; Andrea Penaloza, MD, PhD2; David Pinero, MD3; Francois-Xavier Duchateau, MD4; Stephen W. Borron, MD, MS5; Francois Javaudin, MD6; Olivier Richard, MD7; Diane de Longueville, MD8; Guillem Bouilleau, MD9; Marie-Laure Devaud, MD10; Matthieu Heidet, MD, MPH11; Caroline Lejeune, MD12; Sophie Fauroux, MD13; Jean-Luc Greingor, MD14; Alessandro Manara, MD15; Jean-Christophe Hubert, MD16; Bertrand Guihard, MD17; Olivier Vermylen, MD18; Pascale Lievens, MD19; Yannick Auffret, MD20; Celine Maisondieu, MD21; Stephanie Huet, MD22; Benoît Claessens, MD8; Frederic Lapostolle, MD, PhD23; Nicolas Javaud, MD, PhD24; Paul-Georges Reuter, MD, MS25; Elinor Baker, MD23; Eric Vicaut, MD, PhD26; Frédéric Adnet, MD, PhD23
+
+Key Points
+Question  Is bag-mask ventilation noninferior to endotracheal intubation for initial airway management during advanced resuscitation of patients with out-of-hospital cardiac arrest?
+
+Findings  In this randomized clinical trial that included 2043 patients, favorable neurological function at 28 days was present in 4.3% in the bag-mask group vs 4.2% in the endotracheal intubation group, a difference that did not meet the noninferiority margin of 1%.
+
+Meaning  The study findings are inconclusive for noninferiority; further research would be necessary to assess equivalence or superiority.
+
+Abstract
+Importance  Bag-mask ventilation (BMV) is a less complex technique than endotracheal intubation (ETI) for airway management during the advanced cardiac life support phase of cardiopulmonary resuscitation of patients with out-of-hospital cardiorespiratory arrest. It has been reported as superior in terms of survival.
+
+Objectives  To assess noninferiority of BMV vs ETI for advanced airway management with regard to survival with favorable neurological function at day 28.
+
+Design, Settings, and Participants  Multicenter randomized clinical trial comparing BMV with ETI in 2043 patients with out-of-hospital cardiorespiratory arrest in France and Belgium. Enrollment occurred from March 9, 2015, to January 2, 2017, and follow-up ended January 26, 2017.
+
+Intervention  Participants were randomized to initial airway management with BMV (n = 1020) or ETI (n = 1023).
+
+Main Outcomes and Measures  The primary outcome was favorable neurological outcome at 28 days defined as cerebral performance category 1 or 2. A noninferiority margin of 1% was chosen. Secondary end points included rate of survival to hospital admission, rate of survival at day 28, rate of return of spontaneous circulation, and ETI and BMV difficulty or failure.
+
+Results  Among 2043 patients who were randomized (mean age, 64.7 years; 665 women [32%]), 2040 (99.8%) completed the trial. In the intention-to-treat population, favorable functional survival at day 28 was 44 of 1018 patients (4.3%) in the BMV group and 43 of 1022 patients (4.2%) in the ETI group (difference, 0.11% [1-sided 97.5% CI, −1.64% to infinity]; P for noninferiority = .11). Survival to hospital admission (294/1018 [28.9%] in the BMV group vs 333/1022 [32.6%] in the ETI group; difference, −3.7% [95% CI, −7.7% to 0.3%]) and global survival at day 28 (55/1018 [5.4%] in the BMV group vs 54/1022 [5.3%] in the ETI group; difference, 0.1% [95% CI, −1.8% to 2.1%]) were not significantly different. Complications included difficult airway management (186/1027 [18.1%] in the BMV group vs 134/996 [13.4%] in the ETI group; difference, 4.7% [95% CI, 1.5% to 7.9%]; P = .004), failure (69/1028 [6.7%] in the BMV group vs 21/996 [2.1%] in the ETI group; difference, 4.6% [95% CI, 2.8% to 6.4%]; P < .001), and regurgitation of gastric content (156/1027 [15.2%] in the BMV group vs 75/999 [7.5%] in the ETI group; difference, 7.7% [95% CI, 4.9% to 10.4%]; P < .001).
+
+Conclusions and Relevance  Among patients with out-of-hospital cardiorespiratory arrest, the use of BMV compared with ETI failed to demonstrate noninferiority or inferiority for survival with favorable 28-day neurological function, an inconclusive result. A determination of equivalence or superiority between these techniques requires further research.
+
+Trial Registration  clinicaltrials.gov Identifier: NCT02327026

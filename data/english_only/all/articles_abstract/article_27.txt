@@ -1,0 +1,7 @@
+Robotic assisted radical cystectomy versus open radical cystectomy: a review of what we do and don’t know
+Zeynep G Gul 1, Andrew B Katims 1, Jared S Winoker 1, Peter Wiklund 1, Nikhil Waingankar 1, Reza Mehrazin 1
+
+Abstract
+Radical cystectomy (RC) is the gold standard treatment for muscle-invasive and high-risk, noninvasive bladder cancer. Since 2003, robot-assisted radical cystectomy (RARC) has been gaining popularity. Metanalyses show that the primary advantage of RARC is less blood loss and the primary advantage of open radical cystectomy (ORC) is shorter operative times. There do not appear to be significant differences in complications, cancer-related outcomes or survival between the two approaches. Cost analyses comparing RARC and ORC are complicated by the often-ill-defined distinction between the cost to the hospital versus the cost to payors. However, it is likely that for both hospitals and payors, RARC is cost effective at high-volume centers. It is feasible that in the future, increased experience with RARC will lead to improved outcomes and justify the use of RARC over ORC.
+
+Keywords: Cost analysis, cystectomy, randomized controlled trials (RCTs) as topic, robotics, treatment outcome

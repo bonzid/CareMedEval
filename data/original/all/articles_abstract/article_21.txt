@@ -1,0 +1,21 @@
+Effect of Topical Intranasal Therapy on Epistaxis Frequency in Patients With Hereditary Hemorrhagic Telangiectasia
+A Randomized Clinical Trial
+
+Kevin J. Whitehead, MD1,2; Nathan B. Sautter, MD3; Justin P. McWilliams, MD4; Murali M. Chakinala, MD5; Christian A. Merlo, MD, MPH6; Maribeth H. Johnson, MS7; Melissa James, BSN, RN8; Eric M. Everett, RPh9; Marianne S. Clancy, MPA10; Marie E. Faughnan, MD11,12; S. Paul Oh, PhD13; Scott E. Olitsky, MD14; Reed E. Pyeritz, MD, PhD15; James R. Gossage, MD8
+
+Abstract
+Importance  Epistaxis is a major factor negatively affecting quality of life in patients with hereditary hemorrhagic telangiectasia (HHT; also known as Osler-Weber-Rendu disease). Optimal treatment for HHT-related epistaxis is uncertain.
+
+Objective  To determine whether topical therapy with any of 3 drugs with differing mechanisms of action is effective in reducing HHT-related epistaxis.
+
+Design, Setting, and Participants  The North American Study of Epistaxis in HHT was a double-blind, placebo-controlled randomized clinical trial performed at 6 HHT centers of excellence. From August 2011 through March 2014, there were 121 adult patients who met the clinical criteria for HHT and had experienced HHT-related epistaxis with an Epistaxis Severity Score of at least 3.0. Follow-up was completed in September 2014.
+
+Interventions  Patients received twice-daily nose sprays for 12 weeks with either bevacizumab 1% (4 mg/d), estriol 0.1% (0.4 mg/d), tranexamic acid 10% (40 mg/d), or placebo (0.9% saline).
+
+Main Outcomes and Measures  The primary outcome was median weekly epistaxis frequency during weeks 5 through 12. Secondary outcomes included median duration of epistaxis during weeks 5 through 12, Epistaxis Severity Score, level of hemoglobin, level of ferritin, need for transfusion, emergency department visits, and treatment failure.
+
+Results  Among the 121 patients who were randomized (mean age, 52.8 years [SD, 12.9 years]; 44% women with a median of 7.0 weekly episodes of epistaxis [interquartile range {IQR}, 3.0-14.0]), 106 patients completed the study duration for the primary outcome measure (43 were women [41%]). Drug therapy did not significantly reduce epistaxis frequency (P = .97). After 12 weeks of treatment, the median weekly number of bleeding episodes was 7.0 (IQR, 4.5-10.5) for patients in the bevacizumab group, 8.0 (IQR, 4.0-12.0) for the estriol group, 7.5 (IQR, 3.0-11.0) for the tranexamic acid group, and 8.0 (IQR, 3.0-14.0) for the placebo group. No drug treatment was significantly different from placebo for epistaxis duration. All groups had a significant improvement in Epistaxis Severity Score at weeks 12 and 24. There were no significant differences between groups for hemoglobin level, ferritin level, treatment failure, need for transfusion, or emergency department visits.
+
+Conclusions and Relevance  Among patients with HHT, there were no significant between-group differences in the use of topical intranasal treatment with bevacizumab vs estriol vs tranexamic acid vs placebo and epistaxis frequency.
+
+Trial Registration  clinicaltrials.gov Identifier: NCT01408030

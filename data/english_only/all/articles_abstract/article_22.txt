@@ -1,0 +1,18 @@
+Transfusion Strategies for Acute Upper Gastrointestinal Bleeding
+Authors: Càndid Villanueva, M.D., Alan Colomo, M.D., Alba Bosch, M.D., Mar Concepción, M.D., Virginia Hernandez-Gea, M.D., Carles Aracil, M.D., Isabel Graupera, M.D., María Poca, M.D., Cristina Alvarez-Urturi, M.D., Jordi Gordillo, M.D., Carlos Guarner-Argente, M.D., Miquel Santaló, M.D., Eduardo Muñiz, M.D., and Carlos Guarner, M.D.
+
+Published January 3, 2013
+
+Abstract
+
+Background
+The hemoglobin threshold for transfusion of red cells in patients with acute gastrointestinal bleeding is controversial. We compared the efficacy and safety of a restrictive transfusion strategy with those of a liberal transfusion strategy.
+
+Methods
+We enrolled 921 patients with severe acute upper gastrointestinal bleeding and randomly assigned 461 of them to a restrictive strategy (transfusion when the hemoglobin level fell below 7 g per deciliter) and 460 to a liberal strategy (transfusion when the hemoglobin fell below 9 g per deciliter). Randomization was stratified according to the presence or absence of liver cirrhosis.
+
+Results
+A total of 225 patients assigned to the restrictive strategy (51%), as compared with 61 assigned to the liberal strategy (14%), did not receive transfusions (P<0.001). The probability of survival at 6 weeks was higher in the restrictive-strategy group than in the liberal-strategy group (95% vs. 91%; hazard ratio for death with restrictive strategy, 0.55; 95% confidence interval [CI], 0.33 to 0.92; P=0.02). Further bleeding occurred in 10% of the patients in the restrictive-strategy group as compared with 16% of the patients in the liberal-strategy group (P=0.01), and adverse events occurred in 40% as compared with 48% (P=0.02). The probability of survival was slightly higher with the restrictive strategy than with the liberal strategy in the subgroup of patients who had bleeding associated with a peptic ulcer (hazard ratio, 0.70; 95% CI, 0.26 to 1.25) and was significantly higher in the subgroup of patients with cirrhosis and Child–Pugh class A or B disease (hazard ratio, 0.30; 95% CI, 0.11 to 0.85), but not in those with cirrhosis and Child–Pugh class C disease (hazard ratio, 1.04; 95% CI, 0.45 to 2.37). Within the first 5 days, the portal-pressure gradient increased significantly in patients assigned to the liberal strategy (P=0.03) but not in those assigned to the restrictive strategy.
+
+Conclusions
+As compared with a liberal transfusion strategy, a restrictive strategy significantly improved outcomes in patients with acute upper gastrointestinal bleeding. (Funded by Fundació Investigació Sant Pau; ClinicalTrials.gov number, NCT00414713.)

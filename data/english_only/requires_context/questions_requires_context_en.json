@@ -1,0 +1,459 @@
+[
+    {
+        "id": "f9a64c6c878ffdd8d32b69567ff98068a71a5874cfb02a70023c0959f9d9570d",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "What is the rationale for the study (one or more expected answers)?",
+        "answers": {
+            "a": "death or cardiac arrest from hypoxemia occurs in 40% of tracheal intubation procedures",
+            "b": "the effectiveness of mask ventilation is debated in the treatment of aspiration pneumonia",
+            "c": "the benefit-risk ratio of mask ventilation before intubation has long been debated",
+            "d": "intubation is a frequently performed procedure in the hospital",
+            "e": "recommendations are contradictory regarding mask ventilation before tracheal intubation"
+        },
+        "correct_answers": [
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology",
+            "applicability"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 3
+    },
+    {
+        "id": "41b2949f308f24edf9a6835cb54c8ff2f11ff207abb0d92d406663a7aa995457",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding the study population (one or more expected answers):",
+        "answers": {
+            "a": "a patient intubated for cardiac arrest could be included",
+            "b": "a patient with risk factors for aspiration was ineligible",
+            "c": "randomization made it possible to avoid the subjective choice of patients ventilated with a mask",
+            "d": "a patient with hematemesis was secondarily excluded",
+            "e": "a patient intubated in the pre-hospital setting was eligible"
+        },
+        "correct_answers": [
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "9c1f5d751cc0c520bce1359c35df8cfc07dceab4d12d7660cf34a410dc027161",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "This is a study (one or more expected answers):",
+        "answers": {
+            "a": "with a control group",
+            "b": "conducted open-label",
+            "c": "against placebo",
+            "d": "cross-over",
+            "e": "with prior collection of informed consent"
+        },
+        "correct_answers": [
+            "a",
+            "b"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "755a94dd5552cc65a76081e7d77a745230f578a370e856c52ab0289731978a0f",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "The strengths of randomization in this open-label trial include (one or more expected answers):",
+        "answers": {
+            "a": "the use of sealed and numbered opaque envelopes",
+            "b": "a centralized procedure",
+            "c": "blocks of variable size",
+            "d": "the use of a randomization list by site",
+            "e": "the possibility of randomizing outside the randomization list in case of emergency"
+        },
+        "correct_answers": [
+            "c",
+            "d"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "7557e452fecb98737ecfb8b1d49c69f767c5b8a83a48880396154ab700984cec",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding the interventions evaluated (one or more expected answers):",
+        "answers": {
+            "a": "the decision to use mask ventilation during induction was left to the investigator's initiative",
+            "b": "mask ventilation was performed in accordance with North American recommendations",
+            "c": "mask ventilation of a patient in the control group after induction resulted in their exclusion from the study",
+            "d": "the pre-oxygenation methods performed before randomization may have biased the results of the trial",
+            "e": "the absence of mask ventilation at the start of induction in the experimental group constituted a protocol violation"
+        },
+        "correct_answers": [
+            "b",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "1d3add80c080e9527c5d5fdf38d456995f62aec17bb34579bc18d5064a85df49",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "What are the strengths of the primary outcome (one or more expected answers)?",
+        "answers": {
+            "a": "it reflects a clinically relevant desaturation (less than 80%)",
+            "b": "it is unique",
+            "c": "it is collected blinded to the evaluated intervention",
+            "d": "it is validated a posteriori by an independent adjudication committee",
+            "e": "it is identical for both groups"
+        },
+        "correct_answers": [
+            "b",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics",
+            "applicability"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "f18b95e958405dba9d91f09ad557c20a2d901150bb431dd9ec10c3f793dedc44",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding the calculation of the trial's sample size (one or more expected answers):",
+        "answers": {
+            "a": "the type II error risk (beta) was set at 10%",
+            "b": "the frequency of the primary outcome in the control group was taken into account",
+            "c": "the variability of the primary outcome was taken into account",
+            "d": "a re-evaluation of the sample size was done during the study",
+            "e": "the superiority of not using mask ventilation could be tested"
+        },
+        "correct_answers": [
+            "a",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 4
+    },
+    {
+        "id": "503efa8a225122ebd292dd1d9358d87b0625f93dd9e5aef68d62b7ce9a7cb929",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "For what main reason did the data and safety monitoring board re-evaluate the sample size during the trial (only one expected answer)?",
+        "answers": {
+            "a": "to maintain the initially planned statistical power given the observed variability of the primary outcome",
+            "b": "to account for a safety issue regarding the incidence of aspirations",
+            "c": "to adjust the statistical significance threshold",
+            "d": "to account for the results of the interim efficacy analysis",
+            "e": "to confirm the absence of futility of the trial"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "ac9bcf0ad94016da11d3aa23036293c8035606739e50b815f55f102d012df776",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "On which essential factor did randomization fail to fulfill its role (only one expected answer)?",
+        "answers": {
+            "a": "male sex",
+            "b": "pneumonia",
+            "c": "acute respiratory distress syndrome (ARDS)",
+            "d": "consciousness disorders",
+            "e": "vasopressor treatment"
+        },
+        "correct_answers": [
+            "b"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "2f19fd600724b745c0c8f54fd3d5b800874e042f340c9836ac3a103f437cfa79",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "In the intention-to-treat analysis of this trial, a patient from the control group who was ventilated with a mask (only one expected answer):",
+        "answers": {
+            "a": "was analyzed in the control group",
+            "b": "was excluded from the trial",
+            "c": "was ineligible and should not have been included in the trial",
+            "d": "was counted as a failure in the control group",
+            "e": "was analyzed in the mask ventilation group"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification": "",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "85ea05a87997da97cc7e2c41cc691b520ae68933a916107fcfc0581df3d07f32",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding Figure 1.A. (one or more expected answers):",
+        "answers": {
+            "a": "the degree of significance of the test (p = 0.01) is probably a typographical error since the 95% confidence intervals of the primary outcome overlap",
+            "b": "the majority of patients did not desaturate to less than 90%",
+            "c": "each point represents a patient",
+            "d": "the asymmetric distribution of the primary outcome justifies the use of medians",
+            "e": "several patients have the same minimum oxygen saturation value"
+        },
+        "correct_answers": [
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 4
+    },
+    {
+        "id": "44a25ad3a446270b8f175c3060ee3711b4456885c6681914c6fa23bf351df2d0",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "What are the results of the trial concerning the primary outcome (Table 3) (one or more expected answers):",
+        "answers": {
+            "a": "the lowest oxygen saturation value is greater than or equal to 96% for half of the patients in the mask ventilation group",
+            "b": "3.9 corresponds to the difference in median saturation between the two groups",
+            "c": "the mean difference in saturation between the two groups is significant because the 95% confidence interval does not contain the neutral value 1.00",
+            "d": "patients in the no-mask-ventilation group have a 3.9 times higher risk of desaturating than patients ventilated with a mask",
+            "e": "the percentage of patients who desaturated differs significantly between the two groups (96% versus 93%)"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "84e127c00eeff0ad807ef751a9ecc37c3fedf2cf6622c2e6f9a3d07e4d4511b6",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "What are the results of the trial concerning the other outcomes (Table 3)? (one or more expected answers)",
+        "answers": {
+            "a": "the frequency of desaturations below 80% is decreased by about 50% in the mask ventilation group",
+            "b": "the reduction in the risk of desaturation below 80% with mask ventilation is significant because the 95% confidence interval does not overlap the neutral value 1.00",
+            "c": "an increased risk of new opacities on the chest X-ray with mask ventilation cannot be ruled out",
+            "d": "no statistically significant difference is observed for the exploratory safety outcomes between the two groups of the trial",
+            "e": "no effect of mask ventilation is observed on hospital mortality"
+        },
+        "correct_answers": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification": "",
+        "requires_context": false,
+        "nb_correct_answers": 5
+    },
+    {
+        "id": "2a3aad77203cbf4db65cae1805ca52a5f1b8b7d1659807395b5510e8e1e580a6",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding Figure 2 (one or more expected answers):",
+        "answers": {
+            "a": "mask ventilation is more effective than no mask ventilation, regardless of the oxygen saturation level at induction",
+            "b": "only patients paralyzed with a depolarizing agent benefit from mask ventilation",
+            "c": "the oxygen saturation level at induction could be a modifier of the effect of mask ventilation",
+            "d": "BiPaP within 6 hours before induction is a confounding factor of the effect of mask ventilation",
+            "e": "there is no benefit to mask ventilating subjects with a body mass index (BMI) greater than or equal to 30 kg/m2 (p = 0.56)"
+        },
+        "correct_answers": [
+            "a",
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics",
+            "limitations"
+        ],
+        "justification": "",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "e45b4c70f87827e63fd293728b2f41f62a8a7e664e7f6fb62fd932363cd94605",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "Regarding the methodological limitations related to the open-label nature of the study (one or more expected answers):",
+        "answers": {
+            "a": "the determination, by an operator, of the lowest oxygen saturation value may have been influenced by knowledge of the randomization group",
+            "b": "knowledge of the randomization group may have contributed to different pre-oxygenation between the two groups",
+            "c": "knowledge of the randomization group may have influenced the choice of concomitant therapies and disadvantaged the effectiveness of mask ventilation",
+            "d": "the intention-to-treat analysis allowed for control of the measurement bias of the primary outcome",
+            "e": "the induced biases are minimal since the adjusted post-hoc analysis confirms the results of the main analysis"
+        },
+        "correct_answers": [
+            "a",
+            "b",
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "limitations"
+        ],
+        "justification": "",
+        "requires_context": false,
+        "nb_correct_answers": 3
+    },
+    {
+        "id": "2b0235ab0d06f4fcaef2d62b828998b80979646f14eff7de1756a3d90a09f1d2",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam": "2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date": "2019",
+        "question": "What is the most relevant conclusion of this trial (only one expected answer)?",
+        "answers": {
+            "a": "mask ventilation during induction improves oxygen saturation and reduces the risk of aspiration",
+            "b": "mask ventilation during induction improves oxygen saturation at the cost of unacceptable safety in terms of aspiration",
+            "c": "mask ventilation does not provide more opportunity for patient oxygenation despite the difference in desaturation",
+            "d": "mask ventilation during induction improves oxygen saturation and could decrease the incidence of severe desaturation episodes (<80%)",
+            "e": "mask ventilation during induction improves oxygen saturation and reduces the risk of aspiration but has no effect on hospital mortality"
+        },
+        "correct_answers": [
+            "d"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "applicability"
+        ],
+        "justification": "",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    }
+]

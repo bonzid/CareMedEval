@@ -1,0 +1,21 @@
+Avacopan for the Treatment of ANCA-Associated Vasculitis
+
+Authors: David R.W. Jayne, M.D. https://orcid.org/0000-0002-1712-0637, Peter A. Merkel, M.D., M.P.H., Thomas J. Schall, Ph.D., and Pirow Bekker, M.D, Ph.D., for the ADVOCATE Study Group
+
+Published February 17, 2021
+
+Abstract
+Background
+The C5a receptor inhibitor avacopan is being studied for the treatment of antineutrophil cytoplasmic antibody (ANCA)–associated vasculitis.
+
+Methods
+In this randomized, controlled trial, we assigned patients with ANCA-associated vasculitis in a 1:1 ratio to receive oral avacopan at a dose of 30 mg twice daily or oral prednisone on a tapering schedule. All the patients received either cyclophosphamide (followed by azathioprine) or rituximab. The first primary end point was remission, defined as a Birmingham Vasculitis Activity Score (BVAS) of 0 (on a scale from 0 to 63, with higher scores indicating greater disease activity) at week 26 and no glucocorticoid use in the previous 4 weeks. The second primary end point was sustained remission, defined as remission at both weeks 26 and 52. Both end points were tested for noninferiority (by a margin of 20 percentage points) and for superiority.
+
+Results
+A total of 331 patients underwent randomization; 166 were assigned to receive avacopan, and 165 were assigned to receive prednisone. The mean BVAS at baseline was 16 in both groups. Remission at week 26 (the first primary end point) was observed in 120 of 166 patients (72.3%) receiving avacopan and in 115 of 164 patients (70.1%) receiving prednisone (estimated common difference, 3.4 percentage points; 95% confidence interval [CI], −6.0 to 12.8; P<0.001 for noninferiority; P=0.24 for superiority). Sustained remission at week 52 (the second primary end point) was observed in 109 of 166 patients (65.7%) receiving avacopan and in 90 of 164 patients (54.9%) receiving prednisone (estimated common difference, 12.5 percentage points; 95% CI, 2.6 to 22.3; P<0.001 for noninferiority; P=0.007 for superiority). Serious adverse events (excluding worsening vasculitis) occurred in 37.3% of the patients receiving avacopan and in 39.0% of those receiving prednisone.
+
+Conclusions
+In this trial involving patients with ANCA-associated vasculitis, avacopan was noninferior but not superior to prednisone taper with respect to remission at week 26 and was superior to prednisone taper with respect to sustained remission at week 52. All the patients received cyclophosphamide or rituximab. The safety and clinical effects of avacopan beyond 52 weeks were not addressed in the trial. (Funded by ChemoCentryx; ADVOCATE ClinicalTrials.gov number, NCT02994927.)
+
+Patients with antineutrophil cytoplasmic antibody (ANCA)–associated vasculitis may have life-threatening complications, including impairment in kidney function1-6 caused by progressive focal necrotizing glomerulonephritis.1,2 ANCA-associated vasculitis can also result in deterioration of health-related quality of life7-9 because of organ damage, as well as toxic effects from medications used to treat the disorder, including from long-term use of glucocorticoids.10-13
+Activation of the alternative complement pathway, which results in terminal C5a production, is a component of the pathogenesis of ANCA-associated vasculitis.14-17 Avacopan is an orally administered small-molecule C5a receptor antagonist that selectively blocks the effects of C5a through the C5a receptor (C5aR, also called CD88), including blocking neutrophil chemoattraction and activation. In a murine model of ANCA-associated vasculitis, avacopan prevented the development of glomerulonephritis induced by antimyeloperoxidase antibodies.17 Avacopan showed an effect on vasculitis in phase 2 trials.18,19 We conducted a phase 3 randomized trial (ADVOCATE) that compared avacopan with a tapering schedule of prednisone in patients with ANCA-associated vasculitis concurrently treated with immunosuppressive drugs.

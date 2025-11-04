@@ -1,0 +1,8 @@
+Maternal Consumption of Coffee and Caffeine-containing Beverages and Oral Clefts: A Population-based Case-Control Study in Norway
+Anne Marte W Johansen, Allen J Wilcox, Rolv T Lie, Lene F Andersen, Christian A Drevon
+
+
+Abstract
+A large, population-based case-control study of facial clefts was carried out in Norway between 1996 and 2001. The study included 573 cases—377 with cleft lip with or without cleft palate and 196 with cleft palate only—and 763 randomly selected controls. Maternal consumption of coffee and other caffeine-containing beverages in early pregnancy was recorded shortly after birth. Compared with that for no coffee consumption, the adjusted odds ratios for cleft lip with or without cleft palate were 1.39 (95% confidence interval: 1.01, 1.92) for less than 3 cups a day and 1.59 (95% confidence interval: 1.05, 2.39) for 3 cups or more. Coffee consumption was not associated with risk of cleft palate only (for ≥3 cups vs. none, adjusted odds ratio = 0.96, 95% confidence interval: 0.55, 1.67). Tea consumption was associated with a reduced odds ratio of both cleft lip with or without cleft palate and cleft palate only. There was little evidence of an association between caffeine exposure and clefts when all sources of caffeine were considered. Adjustment for known confounding factors in general had minor effects on risk estimates. Still, the authors could not rule out the possibility of uncontrolled confounding by factors associated with the habit of drinking coffee.
+
+Keywords: caffeine, cleft lip, cleft palate, coffee, pregnancy

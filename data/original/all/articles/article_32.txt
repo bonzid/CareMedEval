@@ -1,0 +1,125 @@
+Fluoroquinolone use and risk of aortic aneurysm and dissection: nationwide cohort study
+Björn Pasternak 1,2,✉, Malin Inghammar 2,3, Henrik Svanström 2
+
+Abstract
+Objective
+To investigate whether oral fluoroquinolone use is associated with an increased risk of aortic aneurysm or dissection.
+
+Design
+Nationwide historical cohort study using linked register data on patient characteristics, filled prescriptions, and cases of aortic aneurysm or dissection.
+
+Setting
+Sweden, July 2006 to December 2013.
+
+Participants
+360 088 treatment episodes of fluoroquinolone use (78%ciprofloxacin) and propensity score matched comparator episodes of amoxicillin use (n=360 088).
+
+Main outcome measures
+Cox regression was used to estimate hazard ratios for a first diagnosis of aortic aneurysm or dissection, defined as admission to hospital or emergency department for, or death due to, aortic aneurysm or dissection, within 60 days from start of treatment.
+
+Results
+Within the 60 day risk period, the rate of aortic aneurysm or dissection was 1.2 cases per 1000 person years among fluoroquinolone users and 0.7 cases per 1000 person years among amoxicillin users. Fluoroquinolone use was associated with an increased risk of aortic aneurysm or dissection (hazard ratio 1.66 (95% confidence interval 1.12 to 2.46)), with an estimated absolute difference of 82 (95% confidence interval 15 to 181) cases of aortic aneurysm or dissection by 60 days per 1 million treatment episodes. In a secondary analysis, the hazard ratio for the association with fluoroquinolone use was 1.90 (1.22 to 2.96) for aortic aneurysm and 0.93 (0.38 to 2.29) for aortic dissection.
+
+Conclusions
+In a propensity score matched cohort, fluoroquinolone use was associated with an increased risk of aortic aneurysm or dissection. This association appeared to be largely driven by aortic aneurysm.
+
+Introduction
+Fluoroquinolones remain among the most commonly used antibiotics globally, and about 30 million outpatient prescriptions for fluoroquinolones are issued per year in the United States alone.1 2 Fluoroquinolone use is associated with an increased risk of tendon disorders, including Achilles tendon rupture and tendinopathy.3 4 The mechanisms behind these adverse events, which are recognised in a boxed warning, are thought to implicate non-antimicrobial properties of fluoroquinolones. These antibiotics have been shown to induce degradation of collagen and other structural components of the extracellular matrix by stimulating the activity of matrix metalloproteinases,5 6 reduce de novo production of collagen,7 and induce oxidative stress in tendon cells.8
+
+Rupture and dissection of the aorta are life threatening medical emergencies that need prompt intervention, often involving surgery. The integrity of the human aorta heavily depends on an intact extracellular matrix, and the pathophysiology of aortic aneurysm is known to involve excessive tissue breakdown through matrix metalloproteinases.9 10 Two recent observational studies have raised concern that fluoroquinolone antibiotics could increase the risk of aortic aneurysm or dissection.11 12 Although limitations in study design have not resulted in firm conclusions, with both studies reporting more than a twofold increased risk of aortic aneurysm or dissection associated with fluoroquinolone exposure, these data have prompted the European Medicines Agency to initiate a safety assessment.13
+
+We conducted a nationwide, register based cohort study in Sweden to investigate the risk of aortic aneurysm or dissection, comparing treatment episodes of fluoroquinolone use with episodes of amoxicillin use.
+
+Methods
+We conducted a cohort study based on linked nationwide data from Swedish registers, (July 2006 to December 2013). We investigated the risk of a first diagnosis of aortic aneurysm or dissection (admission to hospital or emergency department for aortic aneurysm or dissection, or death due to aortic aneurysm or dissection) associated with oral fluoroquinolone use, as compared with amoxicillin use, within a 60 day period from start of treatment. We used two major strategies to control for confounding. To account for potential confounding by indication (infection, or unmeasured factors associated with receipt of antibiotic treatment, might be associated with increased risk of aortic aneurysm or dissection), we used an active comparator design, with amoxicillin as the comparator. Amoxicillin is an antibiotic with no known association with aortic aneurysm or dissection, and its approved indications largely overlap with those of fluoroquinolones, including respiratory and urinary tract infections. To control for potential confounding from differences in baseline health status, we used a propensity score matched design, taking into account demographic characteristics, medical history, concomitant use of other medical drugs, and measures of healthcare use.
+
+Sources of data
+We used the following data sources:
+
+National Prescribed Drug Register, which captures all prescriptions filled at all Swedish pharmacies since July 2005, including details pertaining to the specific drug and the date the prescription was filled.14
+
+National Patient Register, which captures data for all hospital admissions and outpatient and emergency department visits in Sweden, including physician assigned diagnoses according to ICD-10 (international classification of diseases, 10th revision) as well as data for surgical procedures.15
+
+Statistics Sweden, which captures data for demographic characteristics.
+
+Swedish Cause of Death Register, which captures all causes of death in Sweden and is based on death certificates.
+
+Cohort
+The source population included all adults in Sweden who received a prescription for fluoroquinolones or amoxicillin during the study and who were aged 50 years or older. From this group, we identified treatment episodes of fluoroquinolone and amoxicillin use in individuals who:
+
+Had no previous diagnosis of aortic aneurysm or dissection (data available from 1997 onwards)
+
+Did not use study antibiotics in the previous 120 days
+
+Were not admitted to hospital in the previous 120 days (information on inhospital antibiotic exposure was not available)
+
+Did not receive multiple antibiotics (any) on the same day
+
+Did not have a diagnosis indicating endstage illness or drug/alcohol misuse (web table 1)
+
+Had used at least one prescription drug in the past year (to ensure some degree of activity in the healthcare system).
+
+Previous studies reporting associations between fluoroquinolones and aortic aneurysm or dissection used risk periods of approximately 37 and 60 days, respectively.11 12 Given these reports, our risk period of interest was defined as a 60 day period from start of treatment (days 1 to 60, starting from the date when the prescription was filled). We also included a secondary analysis investigating the subsequent 60 days (days 61 to 120). To explore the timing of the association, the 60 day risk period was divided into 10 day intervals, assessing the number of events in each interval.
+
+Propensity score
+To control for potential confounders, treatment episodes of fluoroquinolone and amoxicillin use were matched in a 1:1 ratio on the basis of propensity scores using the 5->1 digit greedy matching algorithm.16 17 The propensity score for fluoroquinolone exposure was estimated by a logistic regression model, including 47 covariates as predictors, covering demographic information, medical history, prescription drug use, and healthcare use (web table 2). One covariate, region of residence, had missing values (0.1% missing); missing values were handled by inclusion of a missing value category.18 We assessed covariate balance in the matched cohort by checking standardised differences between the groups; we considered a covariate to be well balanced if the standardised difference was less than10%.
+
+Aortic aneurysm or dissection
+The primary outcome was defined as a first diagnosis of aortic aneurysm or dissection, including thoracic, thoracoabdominal, and abdominal aneurysm (with or without rupture) and aortic dissection (ICD-10 codes in web table 3). In a secondary analysis, the outcomes of any aortic aneurysm and dissection, respectively, were analysed separately. The outcome was identified as the primary diagnosis (that is, the main diagnosis) associated with admission to hospital or emergency department (as captured through the National Patient Register) or as the underlying cause of death (as recorded in the Cause of Death Register). In a review of medical records of thoracic aortic aneurysms and aortic dissection identified through these two registers, 165 (97%) of 170 cases involved a confirmed diagnosis of any aortic aneurysm.19 In a validation study of the Danish National Patient Register, which is comparable in content and structure to its Swedish counterpart owing to similarities in organisation of the registers and healthcare systems, the positive predictive values for a register based strategy for capture of cases were 92% for aortic dissection and 100% for aortic aneurysm.20
+
+The outcome definition was designed to capture the first clinical encounter of aortic aneurysms or dissections that were likely to be severe and symptomatic, because these events had prompted admission to hospital or emergency department or had led to death. Thus, aortic aneurysm or dissection diagnosed in outpatient care and registered as a secondary diagnosis in any type of care were not considered to represent outcome events.
+
+Statistical analysis
+Patients contributed person time from the date a prescription was filled, to the date of an outcome event, end of follow-up (120 days), end of study period (31 December 2013), hospital admission, death, or new prescription for a study antibiotic. A single patient could contribute with multiple treatment episodes to the cohort; these episodes were all unique and never overlapped in time, and the outcome event could occur only once in each patient. Hence, assumptions of statistical independence were not violated. Cox proportional hazards regression, with days since start of treatment as the time scale, was used to estimate the hazard ratio for aortic aneurysm or dissection, comparing episodes of fluoroquinolone and amoxicillin use. We assessed the proportional hazards assumption by measuring the interaction between treatment status and time scale using a Wald test.21 The absolute rate difference for the 60 day risk period was estimated as (hazard ratio−1)×incidence in the amoxicillin group,22 and reported as the number of cases per million treatment episodes.
+
+We conducted subgroup analyses according to sex and age. In preplanned sensitivity analyses, the outcome definition was varied, assuming that more restrictive definitions might be more specific for the outcome or reflect a more severe disease phenotype. The outcome was restricted to cases of aortic aneurysm or dissection:
+
+With rupture or dissection alone (not without rupture or dissection)
+
+Associated with admission to hospital alone (not emergency department) or in which aortic aneurysm or dissection were the underlying cause of death
+
+Involving patients who had had aortic surgery or died within 30 days of the date of diagnosis or in whom aortic aneurysm or dissection were the underlying cause of death (web table 4).
+
+To assess potential unmeasured confounding, we also analysed the risk of death from any cause; an observed difference in overall mortality between patients treated with fluoroquinolones and amoxicillin would be likely to reflect residual differences in baseline health status or severity of indication (that is, infection) between the groups, rather than a treatment effect. We also conducted a post hoc sensitivity analysis restricted to the first episode included in the study for each individual patient. All analyses were performed using SAS, version 9.4. Results were considered significant when 95% confidence intervals did not overlap 1.0.
+
+Patient involvement
+No patients were involved in the development of the research question, the outcome measures, or the design of the study. As a study based on nationwide registers that implement routine registration, no patients were involved in recruitment or conduct of the study, and results will not be disseminated to study participants.
+
+Results
+Cohort
+Among the source population of 2 333 219 treatment episodes of fluoroquinolone or amoxicillin use, the study eligibility criteria were met for 560 768 episodes of fluoroquinolone use and 440 504 episodes of amoxicillin use (fig 1). After propensity score estimation and 1:1 matching, the study cohort included 720 176 treatment episodes (360 088 in each group). Of the 360 088 episodes of fluoroquinolone use, most were with ciprofloxacin (78%), followed by norfloxacin (20%), and other fluoroquinolones (2%). Baseline characteristics of patients with episodes of fluoroquinolone and amoxicillin use before and after propensity score matching are shown in web table 5 and table 1, respectively. In the matched cohort, all baseline characteristics, as assessed by standardised differences, were well balanced between the groups. The mean follow-up in the 60 day risk period was 52 days (standard deviation 17) days in the fluoroquinolone group and 55 days (14) in the amoxicillin group. The proportional hazards assumption was not violated (P=0.34 for primary outcome analysis).
+
+Risk of aortic aneurysm or dissection
+In the 60 day risk period, there were 64 cases of aortic aneurysm or dissection among 360 088 treatment episodes of fluoroquinolone use (incidence 1.2 per 1000 person years), compared with 40 cases among 360 088 treatment episodes of amoxicillin use (0.7 per 1000 person years). The cumulative incidence of aortic aneurysm or dissection at 60 days was 2.0×10−4 for episodes of fluoroquinolone use and 1.2×10−4 for episodes of amoxicillin use (fig 2). There was an increased risk of aortic aneurysm or dissection associated with fluoroquinolone use (hazard ratio 1.66; 95% confidence interval 1.12 to 2.46). This increase corresponded to an absolute difference of 82 (95% confidence interval 15 to 181) cases of aortic aneurysm or dissection per 1 million treatment episodes in the 60 day risk period.
+
+In a secondary analysis, there was no increased risk of aortic aneurysm or dissection associated with fluoroquinolone exposure in the period of 61-120 days from start of treatment (hazard ratio 0.67; 95% confidence interval 0.40 to 1.11). In another secondary analysis, the 60 day risk period was divided into 10 day intervals to explore the timing of the association (table 2). Of 64 cases of aortic aneurysm among patients treated with fluoroquinolones, 26 (41%) occurred in the first 10 days from start of treatment.
+
+In a secondary analysis, the hazard ratio for the association with fluoroquinolone use was 1.90 (95% confidence interval 1.22 to 2.96) for aortic aneurysm and 0.93 (0.38 to 2.29) for aortic dissection (web table 6). Of the cases of aortic aneurysm or dissection that occurred among fluoroquinolone users, most were abdominal aneurysm, followed by thoracic or thoracoabdominal aneurysm (web table 6).
+
+Subgroup and sensitivity analyses
+Table 3 shows results of subgroup and sensitivity analyses. In subgroup analyses, the hazard ratios with fluoroquinolone use did not differ significantly between women and men and between subgroups of patients aged 50-64 years and those aged 65 years and above. In sensitivity analyses, the hazard ratios for the association between fluoroquinolone use and aortic aneurysm or dissection were in line with that of the primary analysis when the outcome was restricted to cases:
+With dissection or rupture alone
+
+Associated with admission to hospital alone (not emergency department) or in which aortic aneurysm or dissection were the underlying cause of death
+
+Involving patients who had had aortic surgery or died within 30 days of diagnosis or in whom aortic aneurysm or dissection were the underlying cause of death.
+
+The hazard ratio for death from any cause associated with fluoroquinolone use, as compared with amoxicillin, was 1.02 (95% confidence interval 0.97 to 1.08). In a post hoc sensitivity analysis restricted to the first episode included in the study for each individual patient, the hazard ratio for aortic aneurysm or dissection was 1.62 (1.05 to 2.48).
+
+Discussion
+Principal findings
+In this nationwide, propensity score matched cohort study in Sweden, we investigated the association between use of oral fluoroquinolones and risk of aortic aneurysm or dissection, as compared with use of amoxicillin. Use of fluoroquinolones was associated with a 66% increased rate of aortic aneurysm or dissection within a 60 day risk period from start of treatment, which corresponded to an absolute difference of 82 cases per 1 million treatment episodes.
+
+Comparison with other studies and interpretation of results
+Applying a nationwide design, which ensured generalisability, and methods to attempt to limit the possibility of confounding, our study confirms and substantially expands on the two previous studies that have reported an increased risk of aortic aneurysm or dissection associated with fluoroquinolones. A cohort study among older adults in Ontario, Canada, reported an adjusted hazard ratio of 2.24 (95% confidence interval 2.02 to 2.49) for a risk period of about 37 days.12 However, that study adjusted for a limited number of covariates and might therefore not have fully accounted for potential confounding due to differences in baseline health status between patients receiving or not receiving fluoroquinolone. Furthermore, it compared fluoroquinolone use with no use of these antibiotics, an analytical design that could have introduced bias because of important unmeasured factors associated with filling an antibiotic prescription. Such factors include infection, which might influence the risk of aortic aneurysm and introduce confounding by indication, and diagnostic assessment (for example, radiological imaging), which might affect the probability of detection of an aneurysm. A nested case-control study from Taiwan used a 60 day risk period and found an adjusted rate ratio of 2.43 (95% confidence interval 1.83 to 3.22)11; likewise, this study did not have an active comparator and could have overestimated the risk.
+
+Our findings suggest that the magnitude of the association between fluoroquinolones and aortic aneurysm, when assessed in a risk period longer than the common duration of a treatment course (usually 7-14 days), might not be as pronounced as indicated by these two previous studies. The studies both reported more than a twofold increase in risk (although confidence intervals between our and the other studies are overlapping). Our results also indicate that the association could be largely driven by aneurysm, and not dissection.
+
+Furthermore, our study provides some degree of characterisation of the timing of this association, suggesting that the risk associated with fluoroquinolones might be most pronounced in the first 10 days after start of treatment; this would correspond to when treatment is ongoing. If the association is causal, these data indicate that a potential mechanism is relatively acute in onset, largely waning after treatment cessation. Consistent with this finding, the risk of Achilles tendon disorders is highest in the first 15-30 days following start of fluoroquinolone treatment.3 Lending some support to the possibility of a mechanism with acute onset, experimental studies in tendon cells have found that several matrix metalloproteinases, which are known to degrade critical components of the extracellular matrix, are promptly up regulated following exposure to ciprofloxacin.5 6 Although a mechanism implicating matrix metalloproteinases has been proposed to be involved in the association between fluoroquinolones and aortic aneurysm,11 and metalloproteinases are known to have a role in the pathophysiology of aortic aneurysm,9 10 future experimental work will have to determine how fluoroquinolones interact with the aorta.
+
+Our study supports the notion that fluoroquinolone use could be associated with an increased risk of aortic aneurysm or dissection. Before these results are used to guide clinical decision making, the collective body of data on this safety issue should be scrutinised by drug regulatory authorities and weighed, together with other safety issues with this drug class, against the benefits of treatment; this will support appropriate clinical treatment recommendations.
+
+Strengths and limitations
+An important concern in any observational study is the possibility of confounding. We used an active comparator to limit confounding by factors associated with filling an antibiotic prescription, including confounding by indication, and propensity score matching derived from a range of covariates. Despite this, the possibility of residual confounding (for example, due to differences in smoking status or blood pressure levels between exposure groups) cannot completely be ruled out. Another study limitation, which is generic to database studies, was our reliance on filled prescriptions to define drug exposure; non-adherence to fluoroquinolones would bias results towards the null.
+
+The possibility of protopathic bias cannot be excluded—whereby initial symptoms of aortic aneurysm are clinically interpreted as possible infection and lead to fluoroquinolone treatment, which would result in overestimation of risk. However, protopathic bias seems unlikely because infection is not a common first diagnosis in cases where aortic aneurysm is initially misdiagnosed. In a systematic review based on eight studies and 927 patients, among patients in whom ruptured abdominal aortic aneurysm was initially misdiagnosed, the most common initial diagnoses were renal colic (6% of total patients), myocardial infarction (6%), colonic inflammation (3%), and gastrointestinal perforation (3%), whereas 12% did not receive an initial diagnosis.23 On a similar note, if an infection represented indication for treatment with fluroquinolones, but not amoxicillin, and later led to development of an infectious aneurysm, it would bias results towards increased risk.24 25 This possibility too appears unlikely to explain the observed results because infected aneurysms are rare, representing 0.5-2.5% of all aortic aneurysms, and because patients with infected aneurysm may present without a preceding infectious episode. Most treatment episodes with fluoroquinolones in our study were with ciprofloxacin and results are therefore mainly applicable to this specific fluoroquinolone. Additional studies are needed to investigate whether there are differences between individual fluoroquinolones with respect to the risk of aortic aneurysm. Further work is also needed to confirm that the association is driven by aortic aneurysm, and not dissection, as well as the timing of onset of aortic aneurysm suggested by our study.

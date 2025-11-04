@@ -1,0 +1,27 @@
+Prenatal and infant exposure to ambient pesticides and autism spectrum disorder in children: population based case-control study
+Ondine S von Ehrenstein 1 ,2, Chenxiao Ling 2, Xin Cui 2 ,3 ,4, Myles Cockburn 5, Andrew S Park 2, Fei Yu 6, Jun Wu 7, Beate Ritz 2 ,8 ,9
+
+Abstract
+Objective
+To examine associations between early developmental exposure to ambient pesticides and autism spectrum disorder.
+
+Design
+Population based case-control study.
+
+Setting
+California’s main agricultural region, Central Valley, using 1998-2010 birth data from the Office of Vital Statistics.
+
+Population
+2961 individuals with a diagnosis of autism spectrum disorder based on the Diagnostic and Statistical Manual of Mental Disorders, fourth edition, revised (up to 31 December 2013), including 445 with intellectual disability comorbidity, were identified through records maintained at the California Department of Developmental Services and linked to their birth records. Controls derived from birth records were matched to cases 10:1 by sex and birth year.
+
+Exposure
+Data from California state mandated Pesticide Use Reporting were integrated into a geographic information system tool to estimate prenatal and infant exposures to pesticides (measured as pounds of pesticides applied per acre/month within 2000 m from the maternal residence). 11 high use pesticides were selected for examination a priori according to previous evidence of neurodevelopmental toxicity in vivo or in vitro (exposure defined as ever v never for each pesticide during specific developmental periods).
+
+Main outcome measure
+Odds ratios and 95% confidence intervals using multivariable logistic regression were used to assess associations between pesticide exposure and autism spectrum disorder (with or without intellectual disabilities) in offspring, adjusting for confounders.
+
+Results
+Risk of autism spectrum disorder was associated with prenatal exposure to glyphosate (odds ratio 1.16, 95% confidence interval 1.06 to 1.27), chlorpyrifos (1.13, 1.05 to 1.23), diazinon (1.11, 1.01 to 1.21), malathion (1.11, 1.01 to 1.22), avermectin (1.12, 1.04 to 1.22), and permethrin (1.10, 1.01 to 1.20). For autism spectrum disorder with intellectual disability, estimated odds ratios were higher (by about 30%) for prenatal exposure to glyphosate (1.33, 1.05 to 1.69), chlorpyrifos (1.27, 1.04 to 1.56), diazinon (1.41, 1.15 to 1.73), permethrin (1.46, 1.20 to 1.78), methyl bromide (1.33, 1.07 to 1.64), and myclobutanil (1.32, 1.09 to 1.60); exposure in the first year of life increased the odds for the disorder with comorbid intellectual disability by up to 50% for some pesticide substances.
+
+Conclusion
+Findings suggest that an offspring’s risk of autism spectrum disorder increases following prenatal exposure to ambient pesticides within 2000 m of their mother’s residence during pregnancy, compared with offspring of women from the same agricultural region without such exposure. Infant exposure could further increase risks for autism spectrum disorder with comorbid intellectual disability.

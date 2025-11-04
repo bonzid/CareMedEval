@@ -1,0 +1,51 @@
+Axillary dissection versus no axillary dissection in patients with sentinel-node micrometastases (IBCSG 23–01): a phase 3 randomised controlled trial
+Author links open overlay panel
+Dr Viviana Galimberti MD a
+Bernard F Cole PhD i j
+Stefano Zurrida MD b
+Giuseppe Viale MD e k
+Alberto Luini MD c
+Paolo Veronesi MD d k
+Paola Baratella MD c
+Camelia Chifu MD c
+Manuela Sargenti MD c
+Mattia Intra MD c
+Oreste Gentilini MD c, 
+Mauro G Mastropasqua MD e
+Giovanni Mazzarol MD e
+Samuele Massarut MD l
+Jean-Rémi Garbay MD m
+Janez Zgajnar MD n
+Hanne Galatius MD o
+Angelo Recalcati MD p
+David Littlejohn FRACS q, 
+Monika Bamert MD r
+Marco Colleoni MD f
+Karen N Price BS j s
+Meredith M Regan SD j t
+Aron Goldhirsch MD g
+Alan S Coates MD u
+Richard D Gelber PhD j s t v
+Umberto Veronesi MD h
+for the International Breast Cancer Study Group Trial 23–01 investigators
+
+
+Summary
+
+Background
+For patients with breast cancer and metastases in the sentinel nodes, axillary dissection has been standard treatment. However, for patients with limited sentinel-node involvement, axillary dissection might be overtreatment. We designed IBCSG trial 23–01 to determine whether no axillary dissection was non-inferior to axillary dissection in patients with one or more micrometastatic (≤2 mm) sentinel nodes and tumour of maximum 5 cm.
+
+Methods
+In this multicentre, randomised, non-inferiority, phase 3 trial, patients were eligible if they had clinically non-palpable axillary lymph node(s) and a primary tumour of 5 cm or less and who, after sentinel-node biopsy, had one or more micrometastatic (≤2 mm) sentinel lymph nodes with no extracapsular extension. Patients were randomly assigned (in a 1:1 ratio) to either undergo axillary dissection or not to undergo axillary dissection. Randomisation was stratified by centre and menopausal status. Treatment assignment was not masked. The primary endpoint was disease-free survival. Non-inferiority was defined as a hazard ratio (HR) of less than 1·25 for no axillary dissection versus axillary dissection. The analysis was by intention to treat. Per protocol, disease and survival information continues to be collected yearly. This trial is registered with ClinicalTrials.gov, NCT00072293.
+
+Findings
+Between April 1, 2001, and Feb 28, 2010, 465 patients were randomly assigned to axillary dissection and 469 to no axillary dissection. After the exclusion of three patients, 464 patients were in the axillary dissection group and 467 patients were in the no axillary dissection group. After a median follow-up of 5·0 (IQR 3·6–7·3) years, we recorded 69 disease-free survival events in the axillary dissection group and 55 events in the no axillary dissection group. Breast-cancer-related events were recorded in 48 patients in the axillary dissection group and 47 in the no axillary dissection group (ten local recurrences in the axillary dissection group and eight in the no axillary dissection group; three and nine contralateral breast cancers; one and five regional recurrences; and 34 and 25 distant relapses). Other non-breast cancer events were recorded in 21 patients in the axillary dissection group and eight in the no axillary dissection group (20 and six second non-breast malignancies; and one and two deaths not due to a cancer event). 5-year disease-free survival was 87·8% (95% CI 84·4–91·2) in the group without axillary dissection and 84·4% (80·7–88·1) in the group with axillary dissection (log-rank p=0·16; HR for no axillary dissection vs axillary dissection was 0·78, 95% CI 0·55–1·11, non-inferiority p=0·0042). Patients with reported long-term surgical events (grade 3–4) included one sensory neuropathy (grade 3), three lymphoedema (two grade 3 and one grade 4), and three motor neuropathy (grade 3), all in the group that underwent axillary dissection, and one grade 3 motor neuropathy in the group without axillary dissection. One serious adverse event was reported, a postoperative infection in the axilla in the group with axillary dissection.
+
+Interpretation
+Axillary dissection could be avoided in patients with early breast cancer and limited sentinel-node involvement, thus eliminating complications of axillary surgery with no adverse effect on survival.
+
+
+Introduction
+The first randomised trial to validate sentinel-node biopsy in breast cancer was published in 2003.1 That trial and others confirmed that sentinel-node biopsy accurately staged the axilla, so that if the sentinel node is not involved, the other axillary nodes are most probably disease-free and the patient can be spared axillary dissection.2, 3, 4 If the sentinel node was involved, standard practice was axillary dissection (Berg levels I and II in the USA,5, 6 and all three Berg levels in many European countries4). Axillary dissection removes any disease within the axilla, after which disease recurrence in the axilla is rare.7, 8, 9, 10 It might also have a favourable effect on survival, although this effect has never been proven since its main use was as a disease staging procedure.4, 11, 12 However, short-term and long-term side-effects of axillary dissection have always been a concern. These side-effects include lymphoedema, pain, and reduced arm movement.13, 14
+Sentinel-node biopsy very quickly became an integral part of the conservative treatment of breast cancer because it allowed avoidance of axillary dissection in a large proportion of patients with early breast cancer, while still providing information to guide adjuvant treatment. However, with the development of sentinel-node biopsy came new and more exhaustive methods of assessing the sentinel node to ensure that no disease in that location was missed. Before the era of sentinel-node biopsy, about three sections per axillary lymph node were typically examined; subsequently, the entire sentinel node was serial sectioned and all sections examined.15 This assessment resulted in the frequent identification of micrometastatic foci (≤2 mm in diameter) and isolated tumour cells, whose prognostic significance was unknown.
+We designed the International Breast Cancer Study Group (IBCSG) 23–01 multicentre randomised controlled trial to identify whether axillary dissection might be overtreatment in patients who have micrometastases only in the sentinel node. Specifically, we designed the trial to compare outcomes in patients with sentinel-node micrometastases treated with axillary dissection with outcomes in those receiving no further treatment to the axilla.

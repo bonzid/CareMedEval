@@ -1,0 +1,27 @@
+Epinephrine before defibrillation in patients with shockable in-hospital cardiac arrest: propensity matched analysis
+Erin Evans 1, Morgan B Swanson 1 ,2, Nicholas Mohr 1, Nassar Boulos 3, Mary Vaughan-Sarrazin 4 ,5, Paul S Chan 6, Saket Girotra 5 ,7,✉, on behalf of the American Heart Association’s Get With The Guidelines-Resuscitation investigators
+
+Abstract
+Objective
+To determine the use of epinephrine (adrenaline) before defibrillation for treatment of in-hospital cardiac arrest due to a ventricular arrhythmia and examine its association with patient survival.
+
+Design
+Propensity matched analysis.
+
+Setting
+2000-18 data from 497 hospitals participating in the American Heart Association’s Get With The Guidelines-Resuscitation registry.
+
+Participants
+Adults aged 18 and older with an index in-hospital cardiac arrest due to an initial shockable rhythm treated with defibrillation.
+
+Interventions
+Administration of epinephrine before first defibrillation.
+
+Main outcome measures
+Survival to discharge; favorable neurological survival, defined as survival to discharge with none, mild, or moderate neurological disability measured using cerebral performance category scores; and survival after acute resuscitation (that is, return of spontaneous circulation for >20 minutes). A time dependent, propensity matched analysis was performed to adjust for confounding due to indication and evaluate the independent association of epinephrine before defibrillation with study outcomes.
+
+Results
+Among 34 820 patients with an initial shockable rhythm, 7054 (20.3%) were treated with epinephrine before defibrillation, contrary to current guidelines. In comparison with participants treated with defibrillation first, participants receiving epinephrine first were less likely to have a history of myocardial infarction or heart failure, but more likely to have renal failure, sepsis, respiratory insufficiency, and receive mechanical ventilation before in-hospital cardiac arrest (standardized differences >10% for all). Treatment with epinephrine before defibrillation was strongly associated with delayed defibrillation (median 4 minutes v 0 minutes). In propensity matched analysis (6569 matched pairs), epinephrine before defibrillation was associated with lower odds of survival to discharge (22.4% v 29.7%; adjusted odds ratio 0.69; 95% confidence interval 0.64 to 0.74; P<0.001), favorable neurological survival (15.8% v 21.6%; 0.68; 0.61 to 0.76; P<0.001) and survival after acute resuscitation (61.7% v 69.5%; 0.73; 0.67 to 0.79; P<0.001). The above findings were consistent in a range of sensitivity analyses, including matching according to defibrillation time.
+
+Conclusions
+Contrary to current guidelines that prioritize immediate defibrillation for in-hospital cardiac arrest due to a shockable rhythm, one in five patients are treated with epinephrine before defibrillation. Use of epinephrine before defibrillation was associated with worse survival outcomes.

@@ -1,0 +1,27 @@
+Influenza Vaccination After Myocardial Infarction: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial
+
+Abstract
+Background:
+Observational and small, randomized studies suggest that influenza vaccine may reduce future cardiovascular events in patients with cardiovascular disease.
+Methods:
+We conducted an investigator-initiated, randomized, double-blind trial to compare inactivated influenza vaccine with saline placebo administered shortly after myocardial infarction (MI; 99.7% of patients) or high-risk stable coronary heart disease (0.3%). The primary end point was the composite of all-cause death, MI, or stent thrombosis at 12 months. A hierarchical testing strategy was used for the key secondary end points: all-cause death, cardiovascular death, MI, and stent thrombosis.
+Results:
+Because of the COVID-19 pandemic, the data safety and monitoring board recommended to halt the trial before attaining the prespecified sample size. Between October 1, 2016, and March 1, 2020, 2571 participants were randomized at 30 centers across 8 countries. Participants assigned to influenza vaccine totaled 1290 and individuals assigned to placebo equaled 1281; of these, 2532 received the study treatment (1272 influenza vaccine and 1260 placebo) and were included in the modified intention to treat analysis. Over the 12-month follow-up, the primary outcome occurred in 67 participants (5.3%) assigned influenza vaccine and 91 participants (7.2%) assigned placebo (hazard ratio, 0.72 [95% CI, 0.52–0.99]; P=0.040). Rates of all-cause death were 2.9% and 4.9% (hazard ratio, 0.59 [95% CI, 0.39–0.89]; P=0.010), rates of cardiovascular death were 2.7% and 4.5%, (hazard ratio, 0.59 [95% CI, 0.39–0.90]; P=0.014), and rates of MI were 2.0% and 2.4% (hazard ratio, 0.86 [95% CI, 0.50–1.46]; P=0.57) in the influenza vaccine and placebo groups, respectively.
+Conclusions:
+Influenza vaccination early after an MI or in high-risk coronary heart disease resulted in a lower risk of a composite of all-cause death, MI, or stent thrombosis, and a lower risk of all-cause death and cardiovascular death, as well, at 12 months compared with placebo.
+Registration:
+URL: https://www.clinicaltrials.gov; Unique identifier: NCT02831608.
+Clinical Perspective
+
+What Is New?
+
+Observational and small randomized studies suggest that influenza vaccine may reduce future cardiovascular events in patients with cardiovascular disease.	
+This is a double-blind, randomized controlled trial to test whether influenza vaccination early after admission with myocardial infarction or high-risk coronary artery disease reduces cardiovascular events.	
+Influenza vaccination resulted in a lower risk of a composite of all-cause death, myocardial infarction, or stent thrombosis, and a lower risk, as well, of all-cause death and cardiovascular death at 12 months compared with placebo.
+
+What Are the Clinical Implications?
+These findings suggest that influenza vaccination should be considered as part of in-hospital treatment after myocardial infarction.	
+Despite being guideline-recommended, influenza vaccination is underused, and the findings from this study emphasize the importance of seasonal influenza vaccination in patients with cardiovascular disease.
+
+Inflammation plays a central role in atherosclerotic progression from initiation to rupture of atherosclerotic plaques. Although the inflammatory process is multifactorial, exogenous pathogens, including influenza virus, may modulate the inflammatory response.1 A positive association of influenza with the risk of cardiovascular events was described in a study of influenza epidemics from 1915 to 1929, including the 1918 to 1920 pandemic.2 Later observational studies confirmed a temporal association.3–7 A few clinical trials of influenza vaccine versus no vaccine or placebo in high-risk patients with cardiovascular disease observed fewer cardiovascular events with vaccine,8–10 but a recent large, randomized trial in a high-risk cardiovascular population comparing high-dose trivalent influenza vaccine with standard-dose quadrivalent vaccine found no differences in mortality or cardiopulmonary hospitalizations.11 Evidence from large clinical trials is required to reliably assess whether influenza vaccination is effective in preventing future cardiovascular events in patients with cardiovascular disease.12
+In the IAMI trial (Influenza Vaccination After Myocardial Infarction), we hypothesized that influenza vaccination may reduce the combined incidence of death, myocardial infarction (MI), and stent thrombosis in patients with recent MI or high-risk coronary disease.

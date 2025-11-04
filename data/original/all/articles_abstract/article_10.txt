@@ -1,0 +1,40 @@
+Assessment of Glenohumeral
+Subluxation in Poststroke Hemiplegia:
+Comparison Between Ultrasound and
+Fingerbreadth Palpation Methods
+
+Praveen Kumar, Marianne Mardon, Michael Bradley, Selena Cray,
+Annette Swinkels
+
+Background. Glenohumeral subluxation (GHS) is a common poststroke compli­
+cation. Treatment of GHS is hampered by the lack of objective, real-time clinical
+measurements.
+Objective. The aims of this study were: (1) to compare an ultrasound method of
+GHS measurement with the fingerbreadth palpation method using a receiver oper­
+ating characteristic curve (ROC) and (2) to report the sensitivity and specificity of this
+method.
+Design. A prospective study was conducted.
+S etting. The study was conducted in local hospitals and day centers in the
+southwest of England.
+Patients. One hundred five patients who had one-sided weakness following a
+first-time stroke (51 men, 54 women; mean age=71 years, SD=11) and who gave
+informed consent were enrolled in the study.
+Measurements. Ultrasound measurements of acromion-greater tuberosity
+(AGT) distance were used for the assessment of GHS. Measurements were under­
+taken on both shoulders by a research physical therapist trained in shoulder ultra­
+sound with the patient seated in a standardized position. Fingerbreadth palpation
+assessment of GHS was undertaken by a clinical physical therapist based at the
+hospital, who also visited the day centers.
+Results. The area under the ROC curve was 0.73 (95% confidence interval [95%
+Cl] =0.63, 0.83), suggesting that the ultrasound method has good agreement com­
+pared with the fingerbreadth palpation method. A cutoff point of £0.2 cm AGT
+measurement difference between affected and unaffected shoulders generated a
+sensitivity of 68% (95% CI=51%, 75%), a specificity of 62% (95% CI=47%, 80%), a
+positive likelihood ratio of 1.79 (95% CI=1.1, 2.9), and a negative likelihood ratio of
+0.55 (95% CI=0.4, 0.8).
+Limitations. Clinical therapists involved in the routine care of patients conducted
+the fingerbreadth palpation method. It is likely that they were aware of the patients’
+subluxation status.
+Conclusion. The ultrasound method can detect minor asymmetry (<0.5 cm) and
+has the potential advantage over the fingerbreadth palpation method of identifying
+patients with minor subluxation.

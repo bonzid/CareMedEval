@@ -1,0 +1,21 @@
+Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction
+Authors: Paul W. Armstrong, M.D., Burkert Pieske, M.D., Kevin J. Anstrom, Ph.D., Justin Ezekowitz, M.B., B.Ch., Adrian F. Hernandez, M.D., M.H.S., Javed Butler, M.D., M.P.H., M.B.A., Carolyn S.P. Lam, M.B., B.S., Ph.D., Piotr Ponikowski, M.D., Adriaan A. Voors, M.D., Ph.D., Gang Jia, Ph.D., Steven E. McNulty, M.S., Mahesh J. Patel, M.D., Lothar Roessig, M.D., Joerg Koglin, M.D., Ph.D., and Christopher M. O’Connor, M.D., for the VICTORIA Study Group*
+
+Published March 28, 2020
+
+Abstract
+
+Background
+The effect of vericiguat, a novel oral soluble guanylate cyclase stimulator, in patients with heart failure and reduced ejection fraction who had recently been hospitalized or had received intravenous diuretic therapy is unclear.
+
+Methods
+In this phase 3, randomized, double-blind, placebo-controlled trial, we assigned 5050 patients with chronic heart failure (New York Heart Association class II, III, or IV) and an ejection fraction of less than 45% to receive vericiguat (target dose, 10 mg once daily) or placebo, in addition to guideline-based medical therapy. The primary outcome was a composite of death from cardiovascular causes or first hospitalization for heart failure.
+
+Results
+Over a median of 10.8 months, a primary-outcome event occurred in 897 of 2526 patients (35.5%) in the vericiguat group and in 972 of 2524 patients (38.5%) in the placebo group (hazard ratio, 0.90; 95% confidence interval [CI], 0.82 to 0.98; P=0.02). A total of 691 patients (27.4%) in the vericiguat group and 747 patients (29.6%) in the placebo group were hospitalized for heart failure (hazard ratio, 0.90; 95% CI, 0.81 to 1.00). Death from cardiovascular causes occurred in 414 patients (16.4%) in the vericiguat group and in 441 patients (17.5%) in the placebo group (hazard ratio, 0.93; 95% CI, 0.81 to 1.06). The composite of death from any cause or hospitalization for heart failure occurred in 957 patients (37.9%) in the vericiguat group and in 1032 patients (40.9%) in the placebo group (hazard ratio, 0.90; 95% CI, 0.83 to 0.98; P=0.02). Symptomatic hypotension occurred in 9.1% of the patients in the vericiguat group and in 7.9% of the patients in the placebo group (P=0.12), and syncope occurred in 4.0% of the patients in the vericiguat group and in 3.5% of the patients in the placebo group (P=0.30).
+
+Conclusions
+Among patients with high-risk heart failure, the incidence of death from cardiovascular causes or hospitalization for heart failure was lower among those who received vericiguat than among those who received placebo. (Funded by Merck Sharp & Dohme [a subsidiary of Merck] and Bayer; VICTORIA ClinicalTrials.gov number, NCT02861534.)
+Heart failure with a reduced ejection fraction imposes a substantial health care burden, particularly among patients for whom rehospitalization or urgent outpatient treatment for heart failure is warranted despite the use of guideline-based medical therapy. New treatment options are desirable in this high-risk group, and the prognosis is poor compared with that of patients for whom hospitalization within 1 year or urgent treatment for heart failure is not warranted.1
+Vericiguat, a novel oral soluble guanylate cyclase stimulator, enhances the cyclic guanosine monophosphate (GMP) pathway by directly stimulating soluble guanylate cyclase through a binding site independent of nitric oxide, and it sensitizes soluble guanylate cyclase to endogenous nitric oxide by stabilizing nitric oxide binding to the binding site.2 In a phase 2b dose-finding trial involving patients with worsening high-risk heart failure and a reduced ejection fraction, vericiguat reduced the level of N-terminal pro–B-type natriuretic peptide (NT-proBNP).3 In the Vericiguat Global Study in Subjects with Heart Failure with Reduced Ejection Fraction (VICTORIA), we assessed the efficacy and safety of vericiguat in patients with a reduced ejection fraction and chronic heart failure with recent decompensated heart failure. This population of patients with worsening symptoms for which medical attention is warranted is at risk for death and hospitalization for heart failure.
+

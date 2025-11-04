@@ -1,0 +1,857 @@
+Assessment of Glenohumeral
+Subluxation in Poststroke Hemiplegia:
+Comparison Between Ultrasound and
+Fingerbreadth Palpation Methods
+
+Praveen Kumar, Marianne Mardon, Michael Bradley, Selena Cray,
+Annette Swinkels
+
+Background. Glenohumeral subluxation (GHS) is a common poststroke compli­
+cation. Treatment of GHS is hampered by the lack of objective, real-time clinical
+measurements.
+Objective. The aims of this study were: (1) to compare an ultrasound method of
+GHS measurement with the fingerbreadth palpation method using a receiver oper­
+ating characteristic curve (ROC) and (2) to report the sensitivity and specificity of this
+method.
+Design. A prospective study was conducted.
+S etting. The study was conducted in local hospitals and day centers in the
+southwest of England.
+Patients. One hundred five patients who had one-sided weakness following a
+first-time stroke (51 men, 54 women; mean age=71 years, SD=11) and who gave
+informed consent were enrolled in the study.
+Measurements. Ultrasound measurements of acromion-greater tuberosity
+(AGT) distance were used for the assessment of GHS. Measurements were under­
+taken on both shoulders by a research physical therapist trained in shoulder ultra­
+sound with the patient seated in a standardized position. Fingerbreadth palpation
+assessment of GHS was undertaken by a clinical physical therapist based at the
+hospital, who also visited the day centers.
+Results. The area under the ROC curve was 0.73 (95% confidence interval [95%
+Cl] =0.63, 0.83), suggesting that the ultrasound method has good agreement com­
+pared with the fingerbreadth palpation method. A cutoff point of £0.2 cm AGT
+measurement difference between affected and unaffected shoulders generated a
+sensitivity of 68% (95% CI=51%, 75%), a specificity of 62% (95% CI=47%, 80%), a
+positive likelihood ratio of 1.79 (95% CI=1.1, 2.9), and a negative likelihood ratio of
+0.55 (95% CI=0.4, 0.8).
+Limitations. Clinical therapists involved in the routine care of patients conducted
+the fingerbreadth palpation method. It is likely that they were aware of the patients’
+subluxation status.
+Conclusion. The ultrasound method can detect minor asymmetry (<0.5 cm) and
+has the potential advantage over the fingerbreadth palpation method of identifying
+patients with minor subluxation.
+
+Glenohumeral subluxation
+(GHS) is a recognized compli­
+cation in people with post­
+stroke hemiplegia. The reported inci­
+dence of GHS ranges from 17% to
+81% of patients, depending on the
+measurement methods used and the
+time frames over which it is
+assessed.1-2 Severe loss of motor
+function and apparent absence of
+supraspinatus muscle contraction
+are potential risk factors for GHS, but
+scapular orientation does not con­
+tribute to GHS, as was originally
+thought.3 The association between
+GHS and other poststroke complica­
+tions such as pain and poor motor
+recovery is uncertain. When present
+in combination, however, these
+complications could have a signifi­
+cant impact on upper limb func­
+tion.4 The management of GHS,
+therefore, is an important therapeu­
+tic goal, and various approaches
+have been used in its prevention and
+treatment.56 Current approaches
+have significant problems and limita­
+tions to their use, and the effective­
+ness of any one of these approaches
+for the treatment of GHS is inconclu­
+sive.7 A potential reason for these
+findings is the lack of reliable, objec­
+tive, real-time clinical measure­
+ments.8 Current clinical measure­
+ments include the fingerbreadth
+palpation method9 and plain
+radiographs.610
+The fingerbreadth palpation method
+lacks the sensitivity to detect early
+signs of GHS or minor subluxations.8
+There is a concern that without treat­
+ment, subluxation can progress to an
+uncorrectable level over time.6 Early
+GHS can contribute to irreversible
+partial or complete tears of the non­
+elastic shoulder capsule.5611 Radio­
+graphs are considered to be objec­
+tive and have high reliability and
+validity,12 but problems relating to
+cost, time involved, and risks inher­
+ent to exposure to radiation13 limit
+their utility in the clinical setting. In
+addition, radiographic diagnosis is not generally recommended for clin­
+ical evaluation of GHS.14
+Diagnostic ultrasound is now rou­
+tinely used for clinical imaging of the
+shoulder region in patients with
+musculoskeletal conditions.15-18
+Recently, several studies used diag­
+nostic ultrasound to evaluate the
+incidence and prevalence of soft tis­
+sue injuries (rotator cuff tears,
+biceps tendinitis) in the shoulders of
+people with poststroke hemiple­
+gia.19-26 The ultrasound method is
+currently being investigated and
+developed for the assessment of GHS
+in these patients2728; however, it is
+not routinely used in clinical set­
+tings. Using a large, static ultrasound
+machine, Park et al27 reported high
+intrarater reliability (intraclass corre­
+lation coefficient [ICC] = .979) of
+ultrasound measurements of GHS.
+More recently, Kumar et al28
+recruited 26 patients with stroke
+and, using a new standardized posi­
+tion with the forearm supported,
+found that bedside assessment of
+acromion-greater tuberosity (AGT)
+distance, undertaken by a physical
+therapist trained in shoulder ultra­
+sound, demonstrated good intrarater
+reliability (ICC=.980) and discrimi­
+nant validity.
+The purposes of this study were: (1)
+to compare ultrasound and finger­
+breadth palpation methods of GHS
+measurements using a receiver oper­
+ating characteristic (ROC) curve and
+(2) to report the sensitivity and spec­
+ificity of these methods. The finger­
+breadth palpation method is rou­
+tinely used in clinical practice and
+has been tested for both reliability
+and validity.29-31 Hall et al29 investi­
+gated the concurrent validity of this
+method by comparing it with plain
+radiographs. They reported a Spear­
+man correlation coefficient of .760
+between the fingerbreadth palpation
+method and plain radiographs. This
+study continued this research by comparing ultrasound and finger­
+breadth palpation methods.
+Method
+Participants
+The study used a prospective design
+and received approval from the
+National Health Service (NHS)
+Research Ethics Committee, North
+Bristol Trust, United Kingdom.
+Patients over 50 years of age who
+had stroke resulting in one-sided
+weakness and who were able to sit
+upright were eligible to participate.
+Patients with aphasia also were eligi­
+ble to participate in the study. Apha­
+sia was confirmed if a patient had
+difficulty following simple com­
+mands, understanding questions
+(receptive aphasia), or speaking
+(expressive aphasia). Diagnosis or
+presence of GHS was not a require­
+ment to be able to participate in the
+study. Patients with other neurologic
+conditions, traumatic brain injury,
+brain tumors or other serious comor­
+bidities, shoulder pathology, or
+recent surgery to the neck, arm, or
+shoulder; those who were unavail­
+able for testing; and those who were
+unable to volunteer due to any rea­
+son were excluded.
+An a priori power calculation was
+performed for assessing the clinical
+utility of the ultrasound method as
+quantified by the area under the
+receiver operating characteristic
+(AUROC) curve. To our knowledge,
+this is the first study of this topic
+using AUROC curve statistics. There­
+fore, power calculations were con­
+ducted for 2 AUROC curve values.
+For standard level of significance (a=.05, /3<.20), a minimum sample
+size of n=72 and n = 114 would have
+at least 80% power to determine sta­
+tistical significance if the true
+AUROC was equal to 0.70 and 0.65,
+respectively, assuming a 1:1 ratio
+between negative and positive cases
+in the sample (calculations were per­
+formed using MedCalc Software, ver­
+sion 11.1, Mariakerke, Belgium).
+Therefore, the aim of this study was
+to recruit up to 114 patients with
+stroke.
+Patients were recruited from 4 local
+hospital trusts in the southwest of
+England and from the community by
+accessing the Bristol Area Stroke
+Foundation (BASF), a voluntary orga­
+nization that operates social clubs in
+a number of day centers for patients
+with stroke in Bristol. Of the several
+BASF social clubs, 6 centers located
+in and around the Bristol area were
+approached for the recruitment of
+patients. Each patient gave informed
+written consent to take part, and, for
+those who lacked mental capacity,
+appropriate procedures were fol­
+lowed and involved a family member
+signing the personal consultee agree­
+ment form in the presence of the
+patient.
+
+A p p a ra tu s an d Raters
+Prior to commencement of the data
+collection process, a portable diag­
+nostic ultrasound machine (TITAN
+model, L38/10-5 MHz broadband,
+Sonosite Ltd, Hitchin, United King­
+dom) was tested and calibrated
+according to the manufacturer’s
+guidelines.
+Ultrasound measurements of ACT
+distance were undertaken by a phys­
+ical therapist (P.K.) at all of the
+research sites (hospital and day cen­
+ters). The training protocol con­
+sisted of a 1-day manufacturer’s
+course, supervised training from a
+consultant radiologist, pilot work on
+6 healthy volunteers, and reliability
+studies on healthy volunteers32 and
+patients with stroke (n=64).28
+Clinical assessment of GHS (using
+the fingerbreadth palpation method)
+was performed by one of the senior
+clinical physical therapists (NHS
+bands 6 -8 ) at each local hospital
+trust and at the day centers. Seven
+physical therapists with 4 to 15 years
+of experience in stroke rehabilita­
+tion were involved with clinical
+assessments of GHS. To ensure stan­
+dardization and familiarization with
+the testing procedure, each physical therapist practiced the standardized
+protocol on 2 patients with stroke in
+the presence of the chief researcher
+(P.K.). Any issues arising were dis­
+cussed and clarified at this stage.
+During actual data collection, physi­
+cal therapists undertook measure­
+ments independently.
+P ro ced u re
+Baseline demographic data, includ­
+ing age, sex, date of onset, type of
+stroke, site of stroke, and side
+affected, were collected from
+patients’ medical records by the
+chief researcher. For patients at day
+centers, only age, sex, and date of
+stroke were gathered directly from
+the patients, as no medical records
+were available. Assessments were
+conducted at the hospital bedside or
+in the day centers. The therapist
+undertaking clinical assessment of
+GHS was blinded to ultrasound mea­
+surements of AGT distance, and the
+therapist undertaking ultrasound
+measurements was blinded to clini­
+cal assessment. The order of data col­
+lection was as follows.
+C linical assessm ent o f G HS by a
+clinical physical th e ra p is t using
+th e fin g e rb re a d th p a lp a tio n
+m e th o d . A standardized protocol
+was used.29 Patients were seated in a
+chair or wheelchair with both feet
+flat on the ground or on a footrest.
+The physical therapist first assessed
+the unaffected side to palpate the
+gap between the acromion and the
+head of the humerus, and this assess­
+ment was repeated on the affected
+shoulder. Shoulders were positioned
+in neutral rotation, with the arm
+hanging by the side (thumb pointing
+forward) close to the body with no
+abduction (Fig. 1). Some patients
+who demonstrated high tone were
+unable to hang their affected arm
+freely by the side. For these patients,
+the shoulder was maintained in inter­
+nal rotation with slight elbow flexion
+and the forearm resting on their lap.
+Glenohumeral subluxation was defined as a palpable gap betw een
+the inferior aspect of the acromion
+and the superior aspect of the
+humeral head that is Vi fingerbreadth
+or more. A 0 -5 grading scheme was
+used: 0 = n o subluxation, 1= Vi fin­
+gerbreadth gap, 2=1 fingerbreadth
+gap, 3 —1Vi fingerbreadth gap, 4=2
+fingerbreadth gap, and 5 = 2Vi finger­
+breadth gap.29 
+Ultrasound m easurem ents of
+A C T distance by th e chief
+researcher. For ultrasound mea­
+surements of AGT distance, each
+patient was placed in the standard­
+ized position to allow measurement
+of AGT distance (Fig. I).32 The shoul­
+der was in neutral rotation, with the
+elbow at 90 degrees of flexion and
+the forearm in pronation. The fore­
+arms rested on a pillow placed on
+the patient’s lap with the elbow joint
+itself remaining unsupported. Assis­
+tance was provided by the
+researcher if the patient was unable
+to move the arm. The ultrasound
+transducer then was placed over the
+lateral border of acromion along
+the vertical/longitudinal axis of the
+humerus to scan the shoulder. The
+AGT distance was recorded on the
+frozen image using an on-screen cal­
+iper that automatically calculates dis­
+tances (Fig. 2). The AGT distance
+was defined as the relative lateral dis­
+tance betw een the lateral edge of the
+acromial process of the scapula and
+the nearest margin of the superior
+part of the greater tuberosity of the
+hum erus.32 A dark linear acoustic
+shadow beneath the acromion
+helped to identify the lateral edge of
+the acromion. The supraspinatus
+tendon was clearly visible as a thick
+band (acoustic hyperechoic appear­
+ance) at its point of insertion, which
+facilitated identification of the
+greater tuberosity (Fig 2). Three
+ultrasound images of the right shoul­
+der w ere obtained, and AGT distance
+was measured on each image. This
+process was repeated on the left
+shoulder. In order to ensure the rater was blind to measurements, the val­
+ues displayed w ere obscured by
+placing a sticker on the ultrasound
+screen.
+A general neurological clinical
+exam ination o f th e upper lim b by
+th e chief researcher. The general
+neurological examination included
+assessment of muscle strength in the
+shoulder muscles (Medical Research
+Council Scale)33 and muscle tone34-35
+on both affected and unaffected
+sides. Muscle tone was classified as
+low (grade 0), normal (grade 1), and
+high (grades 2-5), as described by
+Culham et al.35 For both muscle
+strength and tone, the shoulder flex­
+ors, abductors, and internal and
+external rotators w ere assessed.
+Data Analysis
+Data w ere analyzed using SPSS (ver­
+sion 19 0, IBM UK, Business Analyt­
+ics, Middlesex, United Kingdom).
+Descriptive statistics w ere used to
+calculate the mean and standard
+deviation of AGT distance measure­
+ments for both affected and unaf­
+fected shoulders. The difference
+betw een affected and unaffected shoulders was considered a measure
+of GHS based on the ultrasound
+m ethod and was analyzed using
+repeated-measures analysis of vari­
+ance (ANOVA), and both sides
+(affected and unaffected) and time
+w ere considered as within-subject
+factors. The standard error of mea­
+surement (SEM) was calculated from
+the ANOVA output. The minimum
+detectable change w ith 90% confi­
+dence interval (MDC90) was calcu­
+lated using the formula: MDC90=
+SEM X 1.65 X \ / 2 . 36'37
+The association betw een the finger­
+breadth palpation m ethod (differ­
+ence betw een affected and unaf­
+fected shoulders) and the ultrasound
+m ethod was tested using Spearman
+rank correlation coefficients. This
+statistical test is used w hen one of
+the m ethods (in this case, the finger­
+breadth palpation m ethod) gener­
+ates ordinal data rather than interval
+or ratio data. Agreement betw een
+the ultrasound and fingerbreadth pal­
+pation methods was tested using the
+ROC curve, the AUROC curve, sen­
+sitivity, specificity, negative and pos­
+itive predictive values, and likelihood ratios for different values of
+ultrasound measurements of AGT
+distance.
+
+Role o f th e Funding Source
+This research was undertaken as part
+of Dr Kumar’s doctoral thesis, which
+was funded by the University of the
+West of England, Bristol, United
+Kingdom.
+Results
+Over a 16-month period, 115
+patients with stroke were
+approached to participate in the
+study. Ten patients were excluded
+because they did not meet the inclu­
+sion criteria. Of these patients, 3 had
+serious comorbidities (intestinal can­
+cer, heart problems), 1 was enrolled but withdrew before finishing data
+collection, 1 was discharged from
+the hospital prior to data collection,
+and 5 could not visit the day center
+on the day of data collection because
+of personal reasons. Therefore, 105
+patients agreed to participate and
+were enrolled in the study: 70
+patients were from hospital settings,
+and 35 patients were from stroke day
+centers. Of the recruited patients, 22
+(21%) had aphasia. Seven patients
+required alternative positioning (a
+nonstandard modified sitting posi­
+tion) due to the presence of high
+tone.
+A summary of the demographic char­
+acteristics of the participants is
+shown in Table 1. The mean AGT distance for the total sample
+(n=105) was 2.2 cm (SD=0.6) and
+1.8 cm (SD=0.4) for the stroke-
+affected and stroke-unaffected shoul­
+ders, respectively. On the stroke-
+affected side, the minimum and
+maximum AGT values recorded
+across patients were 1.0 and 3.7 cm,
+respectively, and the 95% confi­
+dence intervals (95% CIs) ranged
+from 2.0 to 2.3 cm. Corresponding
+values for the unaffected shoulder
+were 0.7, 3-2, and 1.7 to 1.9 cm. The
+repeated-measures ANOVA showed
+a significant mean AGT difference
+between affected and unaffected
+shoulder measurements (X=0.4 cm,
+SD=0.5) (f75,52o=53.101, PC.001).
+The SEM for the between-shoulder
+difference in AGT was 0.08 cm, and
+the MDC90 was ±0.2 cm.
+Shoulder subluxation was present in
+71 patients (67%) and absent in 34
+patients (33%) using the finger-
+breadth palpation method of assess­
+ment. Of those with GHS, 31/71
+(44%) had grade 1 (14-finger gap),
+28/71 (39%) had grade 2 (1-finger
+gap), 8/71 (11%) had grade 3 (1 96-
+finger gap), and 4/71 (6%) had grade
+4 (2-finger gap) subluxation.
+The Spearman rank correlation coef­
+ficients showed a moderate correla­
+tion (rs= .52) between the 2 meth­
+ods, and this correlation was
+statistically significant ( P C .001). The
+ROC curve allows seeing, in a simple
+visual display, how sensitivity and
+specificity vary around different cut­
+off points (curved line) (Fig. 3). The
+AUROC curve can have any value
+between 0 and 1, and a test could be
+regarded as excellent or not useful
+based on the following categories:
+0.9-TO (excellent), 0.8-0.9 (very
+good), 0.7-0.8 (good), 0.6-0.7 (suf­
+ficient), 0.5-0.6 (bad), and <0.5
+(test has no diagnostic value).3839 If
+the AUROC curve value is 0.9 to 1.0
+(ie, closer to the upper left-hand cor­
+ner of the ROC curve), it demon­
+strates excellent agreement between the tests. In contrast, if the value is
+^0.5 (ie, on or below the straight
+line), it suggests that there is poor
+agreement between the tests39
+(Fig. 3). The AUROC curve was 0.73
+(95% 0=0.63, 0.83). Based on the
+AUROC curve, there was a good
+level of agreement between the
+ultrasound and fingerbreadth palpa­
+tion methods.
+Conventionally, on an ROC graph, a
+pair of diagnostic sensitivity and
+specificity values for every individual
+cutoff is plotted, with the sensitivity
+on the y-axis and 1 minus specificity
+on the x-axis. The sensitivity and
+specificity for various cutoff points
+are presented in Table 2. A cutoff
+point of >0.2 cm AGT measurement
+difference between affected and
+unaffected shoulders could be con­
+sidered optimal because it provides
+the best trade-off between sensitivity
+and specificity, with a sensitivity of
+68% (95% 0=51% , 75%) and a spec­
+ificity of 62% (95% 0=47% , 80%).
+Using this cutoff point, the true value
+for the sensitivity of the ultrasound
+method is likely to be between 0.51
+(the lower boundary of the Cl), 0.68
+(the point estimate), and 0.75 (the
+upper boundary of the Cl).
+Using the optimal cutoff point of
+s().2 cm, the usefulness of the ultra­
+sound method is illustrated in the
+eTable (available at ptjournal.apta.
+org). Likelihood ratios summarize
+how many times more or less likely
+patients with subluxation are to have
+a particular test result than patients
+without subluxation. The positive
+likelihood ratio of 1.79 suggests
+that a patient with subluxation
+(defined as grade of 1 or higher in
+the 5-point fingerbreadth palpation
+method) is 1.79 more likely to have
+an AGT difference greater than
+0.2 cm on ultrasound than a patient
+without palpable subluxation. The
+flow diagram presented in Figure 4
+illustrates the comparison of ultra­
+sound method versus fingerbreadth palpation method. Using the ultra­
+sound method, 61/105 patients
+(58%) had a mean AGT difference
+of >0.2 cm between the affected
+and unaffected shoulders. Of those
+patients with >0.2 cm AGT distance,
+33/61 (54%) demonstrated a mean
+AGT difference of between 0.2 and
+0.5 cm, indicating minor asymmetry
+between the unaffected and affected
+shoulders.
+
+D iscussion
+The primary aims of this study were:
+(1) to compare an ultrasound
+method of GHS measurement with
+the fingerbreadth palpation method
+using an ROC curve and (2) to report
+the sensitivity and specificity of
+these methods. The AUROC curve
+from this study was 0.73- Presented
+with pairs of randomly selected
+patients, one with GHS and one without GHS as determined by the
+fingerbreadth palpation method, an
+examiner would classify 73% of the
+pairs correctly by choosing the one
+whose AGT distance on ultrasound
+was the larger of the two.
+For the diagnostic ultrasound
+method to be useful, it is important
+to select a trade-off between sensitiv­
+ity and specificity.40 The cutoff point
+of >0.5 cm generated a sensitivity of
+40% (eTable). Examiners who apply
+a cutoff point of 0.5 cm while using
+the ultrasound method would fail to
+identify 6/10 patients judged by the
+fingerbreadth palpation method to
+have GHS. In contrast, a cutoff point
+of >0.1 cm generates a sensitivity of
+76%, indicating that the ultrasound
+method would identify 8/10 patients
+with subluxation. However, this
+value is associated with a low speci­
+ficity of 50%, indicating that 5/10
+patients whose ultrasound measures
+are asymmetrical by > 0 .1 cm or
+more would have no evidence of
+GHS on the fingerbreadth palpation
+test. Unlike these cutoff points,
+which generate high sensitivity and
+low specificity or vice versa, a cutoff
+point of >0.2 cm generates a sensi­
+tivity of 68% and a specificity of 62%.
+Based on the sensitivity statistic,
+when the fingerbreadth palpation
+test indicates GHS, in 68% of those
+cases, the ultrasound measure also
+would indicate GHS.
+The cutoff point of ^0.2 cm (where
+the sensitivity is 0.68) may be con­
+sidered optimal because it helps to
+“rule out” GHS by indicating that,
+among patients with subluxation
+(defined as a grade of 1 or higher on
+the 5-point palpation scale), 68% will
+have an AGT difference of at least 0.2
+cm. This finding suggests that ultra­
+sound potentially could be used as a
+screening tool, which is critical
+because early diagnosis of GHS
+would facilitate the application of
+appropriate treatment and thereby
+potentially prevent the long-term complications associated with GHS.
+Furthermore, a cutoff point of >0.2
+cm (where the test’s specificity is
+0.62) indicates that, with a predicted
+false-positive result of 0.38, among
+those who demonstrate no sublux­
+ation (a grade of 0 on the 5-point
+fingerbreadth palpation scale), 62%
+will have an AGT difference of less
+than 0.2 cm. Specificity is equally
+important because applying treat­
+ment such as positioning (arm
+troughs, lap boards), shoulder slings,
+or strapping to a patient without
+GHS could reduce the normal gap
+between the acromion and the head
+of the humerus. This position could
+alter the normal scapulohumeral
+rhythm required for smooth move­
+ment at the shoulder joint resulting
+in compression of the rotator cuff
+tendons under the acromion pro­
+cess, which can cause tearing of
+these structures and result in sub­
+acromial impingement.19
+The cutoff point of >0.2 cm also
+coincides with the MDC90 value of
+±0.2 cm, which is in agreement
+with the findings of a previous
+study.28 Kumar et al,28 in a study of
+26 patients with stroke, reported a
+mean AGT difference of 0.4 cm and
+an MDC90 value of ±0.2 cm between
+affected and unaffected shoulders. A
+study of healthy individuals (n=32;
+mean age 64 years, SD= 11) showed
+a mean AGT difference of 0.1 cm
+(SD=0.18) (95% CI=0.03, 0.17) and
+MDC90 value of ±0.07 cm between
+right and left shoulders.32 Based on
+the MDC90 values from these studies,
+it could be predicted that a change
+of ±0.2 cm in AGT distance mea­
+surements between affected and
+unaffected shoulders would be nec­
+essary to indicate an asymmetry that
+is not due to measurement error.
+In this study, a mean AGT difference
+of ^0.5 cm between affected and
+unaffected shoulders was observed
+in 33 patients, suggesting minor sub­
+luxation. It is critical to identify minor subluxation in its early stage,
+as application of appropriate treat­
+ment can improve upper limb motor
+function.5-6 Several studies have
+reported on the benefits of func­
+tional electrical stimulation in the
+prevention and treatment of GHS in
+early stages of rehabilitation5-41’43
+but not in patients with chronic
+stroke (> 6 months).6 Findings from
+these studies suggest that GHS can
+be prevented by the application of
+appropriate treatment but that with­
+drawal of treatment can lead to sub­
+sequent subluxation, especially in
+patients with loss of voluntary con­
+trol. In the United Kingdom, there­
+fore, the latest national guidelines for
+stroke44 recommend application of
+functional electrical stimulation to
+the supraspinatus and deltoid mus­
+cles for any patient with stroke who
+has developed, or is at risk of devel­
+oping, GHS. Ultrasound has the
+potential advantage of identifying
+patients with even minor sublux­
+ation (<0.5 cm) and can provide
+objective measurements in the early
+stages of rehabilitation.
+In contrast, the fingerbreadth palpa­
+tion method has the potential advan­
+tage of being a quick, equipment-
+free method of identifying significant
+subluxation. However, it lacks the
+ability to detect early signs of sublux­
+ation,8 is subjective,8-12-31 and is
+insensitive, as it cannot detect differ­
+ences of less than 0.5 cm .12 Further­
+more, the reported correlations for
+the concurrent validity of the finger­
+breadth palpation method in com­
+parison with radiographic measure­
+ments range from .69 to .76,29-31
+which are described as relatively
+low.45 Limitations of the finger­
+breadth palpation method could
+result in an underestimation of the
+true prevalence of GHS, which could
+contribute to the moderate correla­
+tion and relatively low sensitivity and
+specificity values for the ultrasound
+method found in this study. Due to
+resource, cost, and ethical constraints, it was not possible to under­
+take radiographs of 210 shoulders.
+Our study suggests that ultrasound
+measurements of AGT have potential
+value in the prevention and manage­
+m ent of GHS in people w ith stroke.
+The technique is safe, noninva-
+sive,15-16-46-47 allows real-time mea­
+surements,48 and requires limited
+training to produce reliable measure­
+m ents of AGT distance.28-32-4E,-5° Sev­
+eral other benefits of diagnostic
+ultrasound have been reported by
+recent studies of people with
+stroke.25-26 A recent study demon­
+strated that subluxation occurred
+more frequently in patients (n=182)
+w ith a known presence of fluid in
+the subhumeral and subdeltoid bur­
+sae and in patients w ith reduced functional capacity.25 Ultrasound
+was used both as a diagnostic tool
+and to monitor the effectiveness of
+the exercise program targeting
+reduction of subluxation and bursal
+fluid. Similarly, another study inves­
+tigated the association betw een GHS
+and soft tissue injuries in 39 people
+w ith stroke.26 Similar to our study,
+the diagnosis of GHS was done by
+measuring the lateral AGT distance.
+The study showed that ultrasound
+complements the assessment of soft
+tissue injuries in shoulders of people
+w ith stroke.26
+Given these findings, ultrasound has
+potential usefulness in both research
+and clinical practice. Clinically, ultra­
+sound may be used to assess and
+m onitor the effectiveness of treat­ment interventions for GHS in peo­
+ple w ith severe paralysis, especially
+during the early stage of rehabilita­
+tion. It also has potential to diagnose
+soft tissue injuries in people with
+stroke, both w ith and w ithout GHS,
+and thus can facilitate management
+of shoulder pain. In particular, it has
+utility as an outcom e measure in
+intervention studies. The ultrasound
+m ethod is objective, quantitative,
+and has the potential to detect even
+small changes in AGT distance
+measurements.
+The current study had some limita­
+tions. First, there was a difference in
+the patients’ starting position for the
+2 methods. For the fingerbreadth pal­
+pation method, patients w ere in an
+upright sitting position with their arms hanging freely by their sides
+and without arm support. In con­
+trast, for the ultrasound method, the
+patients’ forearm was placed in their
+lap. Patients with loss of motor con­
+trol are potentially at risk of develop­
+ing GHS, and gravity-dependent posi­
+tions of the shoulder, therefore,
+should be avoided.3 Kumar et al28
+developed a new standardized posi­
+tion with the forearm supported on a
+pillow, but the elbow itself remained
+unsupported to allow the effect of
+gravity. The study demonstrated
+excellent intrarater reliability and
+discriminant validity for the ultra­
+sound method, suggesting it has the
+ability to diagnose GHS even when
+the forearm is supported. It was not
+possible to use this newly developed
+position for the fingerbreadth palpa­
+tion method because there are no
+reports on reliability and validity for
+this method in this position. Second,
+patients were recruited from multi­
+ple sites, which meant 7 different
+physical therapists were involved in
+the assessment of GHS using the fin­
+gerbreadth palpation method. The
+reported interrater reliability (ICC)
+for the fingerbreadth palpation
+method is between .770 and .792.12
+This reliability might have contrib­
+uted to greater variability and might
+have had some effect on the cor­
+relation between fingerbreadth pal­
+pation and ultrasound methods.
+Finally, the assessors conducting the
+fingerbreadth palpation method also
+were the clinical therapists involved
+in the routine care of study patients
+at the hospital. It is likely, therefore,
+that they were aware of the patients’
+subluxation status, which might
+have influenced their judgment on
+the day of data collection. However,
+patients (n=35) at the day center
+were not known to the clinical
+therapists. In conclusion, on the basis of the
+AUROC curve value of 0.73, this
+study demonstrated a good level of
+agreement between the ultrasound and fingerbreadth palpation meth­
+ods. The ROC curve findings from
+this study indicate that a cutoff point
+of >0.2 cm could be used to deter­
+mine the sensitivity and specificity of
+the ultrasound method to identify
+asymmetry between affected and
+unaffected shoulders and facilitate
+diagnosis of GHS. The ultrasound
+method has the potential advantage
+over the fingerbreadth palpation
+method of identifying patients with
+even minor subluxation (SO.5 cm).
+Ultrasound measurements provide
+ratio-level data and have clinical util­
+ity as an outcome measure in inter­
+vention studies. Future studies
+should investigate the diagnostic
+accuracy of the ultrasound method
+in the assessment of GHS in compar­
+ison with radiographic measure­
+ments. From an ethical perspective,
+investigation of diagnostic accuracy
+of the ultrasound method could be
+incorporated into intervention stud­
+ies that routinely use radiographs to
+evaluate outcomes.

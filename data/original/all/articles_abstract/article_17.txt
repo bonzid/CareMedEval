@@ -1,0 +1,30 @@
+Arthroscopic hip surgery compared with physiotherapy and activity modification for the treatment of symptomatic femoroacetabular impingement: multicentre randomised controlled trial
+Antony J R Palmer 1,✉, Vandana Ayyar Gupta 1, Scott Fernquest 1, Ines Rombach 2, Susan J Dutton 2, Ramy Mansour 3, Simon Wood 3, Vikas Khanduja 4, Tom C B Pollard 5, Andrew W McCaskie 6, Karen L Barker 1, Tony J M D Andrade 5, Andrew J Carr 1, David J Beard 1 ,7, Sion Glyn-Jones 1, on behalf of the FAIT Study Group
+
+Abstract
+Objective
+To compare arthroscopic hip surgery with physiotherapy and activity modification for improving patient reported outcome measures in patients with symptomatic femoroacetabular impingement (FAI).
+
+Design
+Two group parallel, assessor blinded, pragmatic randomised controlled trial.
+
+Setting
+Secondary and tertiary care centres across seven NHS England sites.
+
+Participants
+222 participants aged 18 to 60 years with symptomatic FAI confirmed clinically and with imaging (radiography or magnetic resonance imaging) were randomised (1:1) to receive arthroscopic hip surgery (n=112) or a programme of physiotherapy and activity modification (n=110). Exclusion criteria included previous surgery, completion of a physiotherapy programme targeting FAI within the preceding 12 months, established osteoarthritis (Kellgren-Lawrence grade ≥2), and hip dysplasia (centre-edge angle <20 degrees).
+
+Interventions
+Participants in the physiotherapy group received a goal based programme tailored to individual patient needs, with emphasis on improving core stability and movement control. A maximum of eight physiotherapy sessions were delivered over five months. Participants in the arthroscopic surgery group received surgery to excise the bone that impinged during hip movements, followed by routine postoperative care.
+
+Main outcome measures
+The primary outcome measure was the hip outcome score activities of daily living subscale (HOS ADL) at eight months post-randomisation, with a minimum clinically important difference between groups of 9 points. Secondary outcome measures included additional patient reported outcome measures and clinical assessment.
+
+Results
+At eight months post-randomisation, data were available for 100 patients in the arthroscopic hip surgery group (89%) and 88 patients in the physiotherapy programme group (80%). Mean HOS ADL was 78.4 (95% confidence interval 74.4 to 82.3) for patients randomised to arthroscopic hip surgery and 69.2 (65.2 to 73.3) for patients randomised to the physiotherapy programme. After adjusting for baseline HOS ADL, age, sex, and study site, the mean HOS ADL was 10.0 points higher (6.4 to 13.6) in the arthroscopic hip surgery group compared with the physiotherapy programme group (P<0.001)). No serious adverse events were reported in either group.
+
+Conclusions
+Patients with symptomatic FAI referred to secondary or tertiary care achieve superior outcomes with arthroscopic hip surgery than with physiotherapy and activity modification.
+
+Trial registration
+ClinicalTrials.gov NCT01893034.

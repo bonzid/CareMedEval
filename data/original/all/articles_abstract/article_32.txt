@@ -1,0 +1,24 @@
+Fluoroquinolone use and risk of aortic aneurysm and dissection: nationwide cohort study
+Björn Pasternak 1,2,✉, Malin Inghammar 2,3, Henrik Svanström 2
+
+Abstract
+Objective
+To investigate whether oral fluoroquinolone use is associated with an increased risk of aortic aneurysm or dissection.
+
+Design
+Nationwide historical cohort study using linked register data on patient characteristics, filled prescriptions, and cases of aortic aneurysm or dissection.
+
+Setting
+Sweden, July 2006 to December 2013.
+
+Participants
+360 088 treatment episodes of fluoroquinolone use (78%ciprofloxacin) and propensity score matched comparator episodes of amoxicillin use (n=360 088).
+
+Main outcome measures
+Cox regression was used to estimate hazard ratios for a first diagnosis of aortic aneurysm or dissection, defined as admission to hospital or emergency department for, or death due to, aortic aneurysm or dissection, within 60 days from start of treatment.
+
+Results
+Within the 60 day risk period, the rate of aortic aneurysm or dissection was 1.2 cases per 1000 person years among fluoroquinolone users and 0.7 cases per 1000 person years among amoxicillin users. Fluoroquinolone use was associated with an increased risk of aortic aneurysm or dissection (hazard ratio 1.66 (95% confidence interval 1.12 to 2.46)), with an estimated absolute difference of 82 (95% confidence interval 15 to 181) cases of aortic aneurysm or dissection by 60 days per 1 million treatment episodes. In a secondary analysis, the hazard ratio for the association with fluoroquinolone use was 1.90 (1.22 to 2.96) for aortic aneurysm and 0.93 (0.38 to 2.29) for aortic dissection.
+
+Conclusions
+In a propensity score matched cohort, fluoroquinolone use was associated with an increased risk of aortic aneurysm or dissection. This association appeared to be largely driven by aortic aneurysm.

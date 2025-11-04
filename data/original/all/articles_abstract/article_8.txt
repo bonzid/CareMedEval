@@ -1,0 +1,24 @@
+Outcomes of Pregnancy after Bariatric Surgery
+Authors: Kari Johansson, Ph.D., Sven Cnattingius, M.D., Ph.D., Ingmar Näslund, M.D., Ph.D., Nathalie Roos, M.D., Ph.D., Ylva Trolle Lagerros, M.D., Ph.D., Fredrik Granath, Ph.D., Olof Stephansson, M.D., Ph.D., and Martin Neovius, Ph.D.
+
+Published February 26, 2015
+
+Abstract
+
+Background
+Maternal obesity is associated with increased risks of gestational diabetes, large-for-gestational-age infants, preterm birth, congenital malformations, and stillbirth. The risks of these outcomes among women who have undergone bariatric surgery are unclear.
+
+Methods
+We identified 627,693 singleton pregnancies in the Swedish Medical Birth Register from 2006 through 2011, of which 670 occurred in women who had previously undergone bariatric surgery and for whom presurgery weight was documented. For each pregnancy after bariatric surgery, up to five control pregnancies were matched for the mother’s presurgery body-mass index (BMI; we used early-pregnancy BMI in the controls), age, parity, smoking history, educational level, and delivery year. We assessed the risks of gestational diabetes, large-for-gestational-age and small-for-gestational-age infants, preterm birth, stillbirth, neonatal death, and major congenital malformations.
+
+Results
+Pregnancies after bariatric surgery, as compared with matched control pregnancies, were associated with lower risks of gestational diabetes (1.9% vs. 6.8%; odds ratio, 0.25; 95% confidence interval [CI], 0.13 to 0.47; P<0.001) and large-for-gestational-age infants (8.6% vs. 22.4%; odds ratio, 0.33; 95% CI, 0.24 to 0.44; P<0.001). In contrast, they were associated with a higher risk of small-for-gestational-age infants (15.6% vs. 7.6%; odds ratio, 2.20; 95% CI, 1.64 to 2.95; P<0.001) and shorter gestation (273.0 vs. 277.5 days; mean difference −4.5 days; 95% CI, −2.9 to −6.0; P<0.001), although the risk of preterm birth was not significantly different (10.0% vs. 7.5%; odds ratio, 1.28; 95% CI, 0.92 to 1.78; P=0.15). The risk of stillbirth or neonatal death was 1.7% versus 0.7% (odds ratio, 2.39; 95% CI, 0.98 to 5.85; P=0.06). There was no significant between-group difference in the frequency of congenital malformations.
+
+Conclusions
+Bariatric surgery was associated with reduced risks of gestational diabetes and excessive fetal growth, shorter gestation, an increased risk of small-for-gestational-age infants, and possibly increased mortality. (Funded by the Swedish Research Council and others.)
+
+
+In 2008, an estimated 300 million women worldwide were obese (body-mass index [BMI; the weight in kilograms divided by the square of the height in meters], ≥30).1 In 2011–2012 in the United States, 36% of adult women were obese,2 and the majority of women in early pregnancy were either overweight or obese (BMI, ≥25).3
+Maternal obesity is a risk factor for gestational diabetes, with attendant increased risks of macrosomia, delivery complications, obesity in the offspring, and later development of type 2 diabetes in the mother.4–6 Maternal obesity is also associated with an increased risk of stillbirth,7 preterm birth,8 and some congenital malformations9 and a reduced risk of infants born small for gestational age.7
+Among obese persons with type 2 diabetes, bariatric surgery results in higher rates of short-term10,11 and long-term12,13 diabetes remission and prevention of incident diabetes than does conventional therapy for obesity.14 The effect of prepregnancy bariatric surgery on gestational diabetes has been investigated in small studies with inconclusive results, and the majority of studies have not taken presurgery BMI into account.15,16 Similarly, although systematic reviews have concluded that the risks of neonatal complications may be lower after bariatric surgery, this conclusion is based on studies with small sample sizes, heterogeneous study designs, and lack of matching for presurgery BMI.15,16
+We therefore conducted a population-based study using data from nationwide Swedish registries, including information on presurgery BMI among women who had undergone bariatric surgery. We investigated the risks of gestational diabetes and adverse perinatal outcomes among women with a history of bariatric surgery as compared with women without such a history but with similar characteristics.

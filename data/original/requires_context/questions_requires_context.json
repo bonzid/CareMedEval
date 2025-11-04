@@ -1,0 +1,459 @@
+[
+        {
+        "id": "f9a64c6c878ffdd8d32b69567ff98068a71a5874cfb02a70023c0959f9d9570d",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Quel est le rationnel de l’étude (une ou plusieurs propositions attendues) ?",
+        "answers": {
+            "a": "un décès ou un arrêt cardiaque par hypoxémie survient dans 40% des procédures d’intubation trachéale",
+            "b": "l'efficacité de la ventilation au masque est débattue dans le traitement de la pneumonie d’inhalation",
+            "c": "le rapport bénéfice-risque de la ventilation au masque avant intubation est débattu depuis longtemps",
+            "d": "l’intubation est une procédure fréquemment réalisée à l'hôpital",
+            "e": "les recommandations sont contradictoires à propos de la ventilation au masque avant intubation trachéale"
+        },
+        "correct_answers": [
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology",
+            "applicability"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 3
+    },
+    {
+        "id": "41b2949f308f24edf9a6835cb54c8ff2f11ff207abb0d92d406663a7aa995457",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos de la population d'étude (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "un patient intubé pour arrêt cardiaque pouvait être inclus",
+            "b": "un patient avec des facteurs de risque d'inhalation était inéligible",
+            "c": "le tirage au sort a permis d'éviter le choix subjectif des patients ventilés au masque",
+            "d": "un patient avec une hématémèse était exclu secondairement",
+            "e": "un patient intubé en pré-hospitalier était éligible"
+        },
+        "correct_answers": [
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "9c1f5d751cc0c520bce1359c35df8cfc07dceab4d12d7660cf34a410dc027161",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Il s'agit d'une étude (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "avec un groupe contrôle",
+            "b": "conduite en ouvert",
+            "c": "contre placebo",
+            "d": "en cross-over",
+            "e": "avec recueil préalable du consentement éclairé"
+        },
+        "correct_answers": [
+            "a",
+            "b"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "755a94dd5552cc65a76081e7d77a745230f578a370e856c52ab0289731978a0f",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Les points forts de la randomisation dans cet essai conduit en ouvert incluent (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "l'utilisation d'enveloppes opaques scellées et numérotées",
+            "b": "une procédure centralisée",
+            "c": "des blocs de taille variable",
+            "d": "l'utilisation d'une liste de tirage au sort par site",
+            "e": "la possibilité de randomiser hors liste de tirage au sort en cas d'urgence"
+        },
+        "correct_answers": [
+            "c",
+            "d"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "7557e452fecb98737ecfb8b1d49c69f767c5b8a83a48880396154ab700984cec",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos des interventions évaluées (une ou plusieurs réponses attendues) :",
+        "answers": {
+            "a": "la décision de ventilation au masque à l'induction était laissée à l'initiative de l'investigateur",
+            "b": "la ventilation au masque était effectuée conformément aux recommandations nord-américaines",
+            "c": "la ventilation au masque d'un patient du groupe contrôle après l'induction entrainait son exclusion de l'étude",
+            "d": "les méthodes de pré-oxygénation réalisées avant la randomisation ont pu biaiser les résultats de l'essai",
+            "e": "l'absence de ventilation au masque au début de l'induction dans le groupe expérimental constituait une violation de protocole"
+        },
+        "correct_answers": [
+            "b",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "1d3add80c080e9527c5d5fdf38d456995f62aec17bb34579bc18d5064a85df49",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Quels sont les points forts du critère de jugement principal (une ou plusieurs propositions attendues) ?",
+        "answers": {
+            "a": "il reflète une désaturation cliniquement pertinente (inférieure à 80%)",
+            "b": "il est unique",
+            "c": "il est recueilli en aveugle de l'intervention évaluée",
+            "d": "il est validé a posteriori par un comité d'adjudication indépendant",
+            "e": "il est identique pour les deux groupes"
+        },
+        "correct_answers": [
+            "b",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics",
+            "applicability"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "f18b95e958405dba9d91f09ad557c20a2d901150bb431dd9ec10c3f793dedc44",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos du calcul de l'effectif de l'essai (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "le risque de seconde espèce (beta) était fixé à 10%",
+            "b": "la fréquence de survenue du critère de jugement principal dans le groupe contrôle a été prise en compte",
+            "c": "la variabilité du critère de jugement principal a été prise en compte",
+            "d": "une ré-évaluation de l'effectif a été faite en cours d'étude",
+            "e": "la supériorité de l'absence de ventilation au masque pouvait être testée"
+        },
+        "correct_answers": [
+            "a",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 4
+    },
+    {
+        "id": "503efa8a225122ebd292dd1d9358d87b0625f93dd9e5aef68d62b7ce9a7cb929",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Pour quelle raison principale le data and safety monitoring board a ré-évalué l'effectif en cours d'essai (une seule proposition attendue) ?",
+        "answers": {
+            "a": "pour maintenir la puissance statistique initialement prévue compte-tenu de la variabilité observée du critère de jugement principal",
+            "b": "pour tenir compte d'un problème de sécurité concernant l'incidence des inhalations",
+            "c": "pour ajuster le seuil de signification statistique",
+            "d": "pour tenir compte des résultats de l'analyse intermédiaire d'efficacité",
+            "e": "pour confirmer l'absence de futilité de l'essai"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "ac9bcf0ad94016da11d3aa23036293c8035606739e50b815f55f102d012df776",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Sur quel facteur essentiel la randomisation a mal rempli son rôle (une seule proposition attendue) ?",
+        "answers": {
+            "a": "sexe masculin",
+            "b": "pneumonie",
+            "c": "syndrome de détresse respiratoire aiguë (SDRA)",
+            "d": "troubles de conscience",
+            "e": "traitement par vasopresseur"
+        },
+        "correct_answers": [
+            "b"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "design",
+            "methodology"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "2f19fd600724b745c0c8f54fd3d5b800874e042f340c9836ac3a103f437cfa79",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Dans l'analyse en intention de traiter de cet essai, un patient du groupe contrôle qui a été ventilé au masque (une seule réponse attendue) :",
+        "answers": {
+            "a": "était analysé dans le groupe contrôle",
+            "b": "était exclu de l'essai",
+            "c": "était inéligible et n'aurait pas dû être inclus dans l'essai",
+            "d": "était comptabilisé en échec dans le groupe contrôle",
+            "e": "était analysé dans le groupe ventilation au masque"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification":"",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "85ea05a87997da97cc7e2c41cc691b520ae68933a916107fcfc0581df3d07f32",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos de la figure 1.A. (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "le degré de signification du test (p = 0.01) est probablement une erreur typographique puisque les intervalles de confiance à 95% du critère de jugement principal se chevauchent",
+            "b": "la majorité des patients n'a pas désaturé à moins de 90%",
+            "c": "chaque point représente un patient",
+            "d": "la distribution asymétrique du critère de jugement principal justifie l'utilisation des médianes",
+            "e": "plusieurs patients ont la même valeur de saturation minimale en oxygène"
+        },
+        "correct_answers": [
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 4
+    },
+    {
+        "id": "44a25ad3a446270b8f175c3060ee3711b4456885c6681914c6fa23bf351df2d0",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Quels sont les résultats de l'essai concernant le critère de jugement principal (tableau 3) (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "la plus faible valeur de saturation en oxygène est supérieure ou égale à 96% pour la moitié des patients dans le groupe avec ventilation au masque",
+            "b": "3,9 correspond à la différence de saturation médiane entre les deux groupes",
+            "c": "la différence moyenne de la saturation entre les deux groupes est significative car l'intervalle de confiance à 95% ne contient pas la valeur neutre 1,00",
+            "d": "les patients du groupe sans ventilation au masque ont 3,9 fois plus de risque de désaturer que les patients ventilés au masque",
+            "e": "le pourcentage de patients ayant désaturé diffère significativement entre les deux groupes (96% versus 93%)"
+        },
+        "correct_answers": [
+            "a"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 1
+    },
+    {
+        "id": "84e127c00eeff0ad807ef751a9ecc37c3fedf2cf6622c2e6f9a3d07e4d4511b6",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Quels sont les résultats de l'essai concernant les autres critères de jugement (tableau 3) ? (une ou plusieurs propositions attendues)",
+        "answers": {
+            "a": "La fréquence des désaturations inférieures à 80% est diminuée d'environ 50% dans le groupe avec ventilation au masque",
+            "b": "la réduction du risque de désaturation inférieure à 80% avec la ventilation au masque est significative car l'intervalle de confiance à 95% ne chevauche pas la valeur neutre 1,00",
+            "c": "on ne peut pas exclure une augmentation du risque de nouvelles opacités sur la radiographie pulmonaire avec la ventilation au masque",
+            "d": "aucune différence statistiquement significative n'est observée pour les critères exploratoires de sécurité entre les deux groupes de l'essai",
+            "e": "aucun effet de la ventilation au masque n'est observé sur la mortalité hospitalière"
+        },
+        "correct_answers": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics"
+        ],
+        "justification":"",
+        "requires_context": false,
+        "nb_correct_answers": 5
+    },
+    {
+        "id": "2a3aad77203cbf4db65cae1805ca52a5f1b8b7d1659807395b5510e8e1e580a6",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos de la figure 2 (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "la ventilation au masque est plus efficace que l'absence de ventilation au masque, quel que soit le niveau de saturation en oxygène à l'induction",
+            "b": "seuls les patients curarisés avec un agent dépolarisant bénéficient de la ventilation au masque",
+            "c": "le niveau de saturation en oxygène à l'induction pourrait être un modificateur de l'effet de la ventilation au masque",
+            "d": "le BiPaP dans les 6 heures précédant l'induction est un facteur de confusion de l'effet de la ventilation au masque",
+            "e": "il n'y a pas de bénéfice à ventiler au masque les sujets avec un indice de masse corporelle (BMI) supérieur ou égal à 30 kg/m2 (p = 0,56)"
+        },
+        "correct_answers": [
+            "a",
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "statistics",
+            "limitations"
+        ],
+        "justification":"",
+        "requires_context": true,
+        "nb_correct_answers": 2
+    },
+    {
+        "id": "e45b4c70f87827e63fd293728b2f41f62a8a7e664e7f6fb62fd932363cd94605",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "A propos des limites méthodologiques liées au caractère ouvert de l'étude (une ou plusieurs propositions attendues) :",
+        "answers": {
+            "a": "la détermination, par un opérateur, de la plus faible valeur de saturation en oxygène a pu être influencée par la connaissance du groupe de randomisation",
+            "b": "la connaissance du groupe de randomisation a pu contribuer à une pré-oxygénation différente entre les deux groupes",
+            "c": "la connaissance du groupe de randomisation a pu influencer le choix des thérapeutiques concomittantes et défavoriser l'efficacité de la ventilation au masque",
+            "d": "l'analyse en intention de traiter a permis de controler le biais de mesure du critère de jugement principal",
+            "e": "les biais induits sont minimes puisque l'analyse post hoc ajustée confirme les résultats de l'analyse principale"
+        },
+        "correct_answers": [
+            "a",
+            "b",
+            "c"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "limitations"
+        ],
+        "justification":"",
+        "requires_context": false,
+        "nb_correct_answers": 3
+    },
+    {
+        "id": "2b0235ab0d06f4fcaef2d62b828998b80979646f14eff7de1756a3d90a09f1d2",
+        "id_article": "article_16",
+        "source_exam": "https://www.cng.sante.fr/sites/default/files/media/2022-06/LCA%20ECN%202022.pdf",
+        "date_exam":"2022",
+        "article_link": "https://www.nejm.org/doi/full/10.1056/NEJMoa1812405",
+        "article_date":"2019",
+        "question": "Quelle est la conclusion la plus pertinente de cet essai (une seule proposition attendue) ?",
+        "answers": {
+            "a": "ventiler au masque à l'induction améliore la saturation en oxygène et réduit le risque d'inhalation",
+            "b": "ventiler au masque à l'induction améliore la saturation en oxygène au prix d'une sécurité inacceptable en termes d'inhalation",
+            "c": "ventiler au masque n'apporte pas plus de possibilité d'oxygénation des patients malgré la différence sur la désaturation",
+            "d": "ventiler au masque à l'induction améliore la saturation en oxygène et pourrait diminuer l'incidence des épisodes de désaturation sévère (<80%)",
+            "e": "ventiler au masque à l'induction améliore la saturation en oxygène et réduit le risque d'inhalation mais n'a pas d'effet sur la mortalité hospitalière"
+        },
+        "correct_answers": [
+            "d"
+        ],
+        "essential_answers": [],
+        "unacceptable_answers": [],
+        "labels": [
+            "applicability"
+        ],
+        "justification":"",
+        "requires_context": false,
+        "nb_correct_answers": 1
+    }
+]
