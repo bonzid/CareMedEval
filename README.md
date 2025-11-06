@@ -5,7 +5,7 @@
 |                        | Links                                               | 
 | :--------------------: |:---------------------------------------------------:|
 | **Repository**        |  [GitHub](https://github.com/bonzid/CareMedEval), [HuggingFace](https://huggingface.co/datasets/doriab/CareMedEval)          | 
-| **Paper**  | TBA |
+| **Paper**  | https://arxiv.org/abs/2511.03441 |
 | **Contact**  |  [Doria BONZI](mailto:doria.bonzi@loria.fr), [Alexandre GUIGGI](mailto:alexandre.guiggi@gmail.com) |
 
 
@@ -162,7 +162,15 @@ We conducted a series of experiments on our dataset to evaluate the critical app
 
 To cite this dataset:
 ```
-TBA
+@misc{bonzi2025caremedevaldatasetevaluatingcritical,
+      title={CareMedEval dataset: Evaluating Critical Appraisal and Reasoning in the Biomedical Field}, 
+      author={Doria Bonzi and Alexandre Guiggi and Frédéric Béchet and Carlos Ramisch and Benoit Favre},
+      year={2025},
+      eprint={2511.03441},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.03441}, 
+}
 ```
 
 
