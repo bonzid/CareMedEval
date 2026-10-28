@@ -5,7 +5,7 @@
 |                        | Links                                               | 
 | :--------------------: |:---------------------------------------------------:|
 | **Repository**        |  [GitHub](https://github.com/bonzid/CareMedEval), [HuggingFace](https://huggingface.co/datasets/doriab/CareMedEval)          | 
-| **Paper**  | https://arxiv.org/abs/2511.03441 |
+| **Paper**  | https://lrec.elra.info/lrec2026-main-404 |
 | **Contact**  |  [Doria BONZI](mailto:doria.bonzi@loria.fr), [Alexandre GUIGGI](mailto:alexandre.guiggi@gmail.com) |
 
 
@@ -154,14 +154,18 @@ Comparison of model performance according to "reasoning" tokens generation level
 
 To cite this dataset:
 ```
-@misc{bonzi2025caremedevaldatasetevaluatingcritical,
-      title={CareMedEval dataset: Evaluating Critical Appraisal and Reasoning in the Biomedical Field}, 
-      author={Doria Bonzi and Alexandre Guiggi and Frédéric Béchet and Carlos Ramisch and Benoit Favre},
-      year={2025},
-      eprint={2511.03441},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2511.03441}, 
+@inproceedings{bonzi-etal-2026-caremedeval,
+  title = {CareMedEval Dataset: Evaluating Critical Appraisal and Reasoning in the Biomedical Field},
+  author = {Bonzi, Doria and Guiggi, Alexandre and Bechet, Frederic and Ramisch, Carlos and Favre, Benoit},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {5169--5181},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/2erqq5fuxpge},
+  abstract = {Critical appraisal of scientific literature is an essential skill in the biomedical field. While large language models (LLMs) can offer promising support in this task, their reliability remains limited, particularly for critical reasoning in specialized domains. We introduce CareMedEval, an original dataset designed to evaluate LLMs on biomedical critical appraisal and reasoning tasks. Derived from authentic exams taken by French medical students, the dataset contains 534 questions based on 37 scientific articles. Unlike existing benchmarks, CareMedEval explicitly evaluates critical reading and reasoning grounded in scientific papers. Benchmarking state-of-the-art generalist and biomedical-specialized LLMs under various context conditions reveals the difficulty of the task: open and commercial models fail to exceed an Exact Match Rate of 0.5 even though generating intermediate reasoning tokens considerably improves the results. Yet, models remain challenged especially on questions about study limitations and statistical analysis. CareMedEval provides a challenging benchmark for grounded reasoning, exposing current LLM limitations and paving the way for future development of automated support for critical appraisal.}
 }
 ```
 
